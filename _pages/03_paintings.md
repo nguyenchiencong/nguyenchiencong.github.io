@@ -5,22 +5,28 @@ permalink: /paintings
 ---
 
 <div class="gallery">
-  <figure class="gallery-item">
-    <img src="img/image-1.jpg" alt="Gallery image 1" class="gallery-img">
-  </figure>
-  <figure class="gallery-item">
-    <img src="img/image-2.jpg" alt="Gallery image 2" class="gallery-img">
-  </figure>
-  <figure class="gallery-item">
-    <img src="img/image-3.jpg" alt="Gallery image 3" class="gallery-img">
-  </figure>
-  <figure class="gallery-item">
-    <img src="img/image-4.jpg" alt="Gallery image 4" class="gallery-img">
-  </figure>
-  <figure class="gallery-item">
-    <img src="img/image-5.jpg" alt="Gallery image 5" class="gallery-img">
-  </figure>
-  <figure class="gallery-item">
-    <img src="img/image-6.jpg" alt="Gallery image 6" class="gallery-img">
-  </figure>
+  <div class="gallery-item">
+    <img src="../files/painting_dog.jpg" alt="Painting dog" class="gallery-img">
+    <div class="gallery-text">
+      Portrait of my friend Nấm Hương (shiitake) <br> 2023 <br> Acrylic
+    </div>
+  </div>
+  <div class="gallery-item">
+    <img src="../files/painting_ficus.jpg" alt="Painting ficus" class="gallery-img">
+    <div class="gallery-text">
+      Mademoiselle Ficus <br> 2022 <br> Acrylic
+    </div>
+  </div>
+  <div class="gallery-item">
+    <img src="../files/painting_sunset.jpg" alt="Painting sunset" class="gallery-img">
+    <div class="gallery-text">
+      Sunset <br> 2023 <br> Acrylic
+    </div>
+  </div>
+  <div class="gallery-item">
+    <img src="../files/painting_pyrops.jpg" alt="Painting pyrops" class="gallery-img">
+    <div class="gallery-text">
+      Pyrops candelaria <br> 2023 <br> Acrylic
+    </div>
+  </div>
 </div>
