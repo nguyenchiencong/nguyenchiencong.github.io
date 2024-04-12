@@ -17,7 +17,7 @@ We've had some plans to move, but they failed. So now, we're staying in the same
 
 I have to make a temporary halt to my process of making a piano concerto.
 With Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot for our living, mostly because it’s fun too.
-The name of the game will be - Wisdom of the Trees. And we are the - c木y crew. The words "cây" and "木" both mean "tree" in Vietnamese.
+The name of the game will be - Wisdom of the Trees. And we are the - c木y crew. The words "cây" and "木" mean "tree" in Vietnamese and Chinese respectively.
 
 Don’t know exactly how yet, but we plan to make a Kickstarter to gather the funds beginning of 2025 to be able to do the work sustainably.
 We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript.
