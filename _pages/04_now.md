@@ -14,7 +14,7 @@ I will open-source it someday.
 
 We are in the process of closing down our plants nursery/shop and finding a new home to live in. It was fun. I've come to appreciate our friends, the trees more.
 We've had some plans to move to a place near a lake and a small forest, but they fell through. So now, we're staying in the same city for at least 6 more months.
-Our cat will still be able to use his indoor litterbox and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
+Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
 I have to make a temporary halt to the process of composing a piano concerto and a symphony.
 Instead, with Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot to earn a living income, and mostly because it’s fun too.
