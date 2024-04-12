@@ -17,13 +17,7 @@ $header:  #1D1425;
 	box-sizing: border-box;
 }
 
-html {
-  $main: #1aaf67 !global;
-  $font-color: #F0F0F4 !global;
-  $link-color: #4DE49B !global;
-  $link-hover-color: $main !global;
-  $heading-font-color: #4DE49B !global;
-
+html.dark {
   background-color: #262626;
 
   input {
@@ -32,3 +26,13 @@ html {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  .dark,
+  [data-theme="dark"] {
+    $main: #1aaf67 !global;
+    $font-color: #F0F0F4 !global;
+    $link-color: #4DE49B !global;
+    $link-hover-color: $main !global;
+    $heading-font-color: #4DE49B !global;
+  }
+}
