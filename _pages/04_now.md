@@ -22,7 +22,7 @@ Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Go
 And maybe, I can do both in the process, a game needs music too.
 
 The name of the game will be - Wisdom of the Trees - (哲学の木 in Japanese). And we are the - c本y crew -.
-The words "cây" means "tree" in Vietnamese or "木" in Chinese and pronounced like "K", while "本" means "root" in Chinese and looks like "Â".
+The words "cây" means "tree" or "木" in Chinese and pronounced like "K" in Vietnamese, while "本" means "root" and looks like "Â".
 The similarity between languages are fascinating.
 
 Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gather the funds beginning of 2025 to be able to do the work sustainably.
