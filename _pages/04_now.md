@@ -6,9 +6,11 @@ permalink: /now
 
 12 april 2024,
 
-I’m building a Rails dictionary app for Chinese-Vietnamese because I like the way the Chinese language works,
-only for my use locally for now. I’d like to publish it online for free but that would mean that I have to sustain it financially.
-The dictionary part is mostly finished. For the grammatical part, I’m still taking time to learn all the corners of the grammar to be able to compact it.
+I’m building a Rails dictionary-based learning app for the Chinese language because I like the way the Chinese language works,
+only for my use locally for now.
+The dictionary part is mostly finished. For the grammatical part, I’m still  taking time to learn all the corners of the grammar to be able to compact it.
+It's in Vietnamese though. I’d like to publish it online for free but that would mean that I will have to sustain it financially.
+I might open-source it someday.
 
 We are in the process of closing down our plant shop and finding a new home to live in.
 We've had some plans to move, but they failed. So now, we're staying in the same city for at least 6 more months.
