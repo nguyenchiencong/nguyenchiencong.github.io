@@ -21,8 +21,9 @@ I have to make a temporary halt to the process of composing a piano concerto and
 Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun too.
 And maybe, I can do both in the process, a game needs music too.
 
-The name of the game will be - Wisdom of the Trees. And we are the - c本y crew.
-The words "cây" means "tree" in Vietnamese and pronounced like "K", while "本" means "root" in Chinese and looks like "Â".
+The name of the game will be - Wisdom of the Trees - (哲学の木 in Japanese). And we are the - c本y crew -.
+The words "cây" means "tree" in Vietnamese or "木" in Chinese and pronounced like "K", while "本" means "root" in Chinese and looks like "Â".
+The similarity between languages are fascinating.
 
 Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gather the funds beginning of 2025 to be able to do the work sustainably.
 We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript, playing with Godot and implementing game design.
