@@ -31,6 +31,6 @@ We need to upgrade a few PCs and buy some tablets for drawing, kind of expensive
 Guess, we'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
 Artificial Intelligence right now is kind of cool: it helps us code, draw, make voice-overs, and everything faster.
-Knowledge is cheap nowadays, and AI is just an extension of mankind. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like a human, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, should one ask what is intelligence first?
+Knowledge is cheap nowadays, and AI is just an extension of mankind. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like man, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, should one ask what is intelligence first?
 
 C.
