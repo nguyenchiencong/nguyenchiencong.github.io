@@ -12,12 +12,12 @@ The dictionary part is mostly finished. For the grammatical part, I’m still ta
 It's in Vietnamese though. I’d like to publish it online for free but that would mean that I will have to sustain it financially.
 I might open-source it someday.
 
-We are in the process of closing down our plant shop and finding a new home to live in.
+We are in the process of closing down our plants nursery/shop and finding a new home to live in. It was fun. I've come to appreciate our friends, the trees more.
 We've had some plans to move to a place near a lake and a small forest, but they fell through. So now, we're staying in the same city for at least 6 more months.
 Our cat will still be able to use his indoor litterbox and his two cardboard properties and our dog will still have to bear the hostility of city dwellers.
 
 I have to make a temporary halt to my process of composing a piano concerto and a symphony.
-With Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot for our living, mostly because it’s fun too.
+Instead, with Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot to earn a living income, and mostly because it’s fun too.
 The name of the game will be - Wisdom of the Trees. And we are the - c木y crew. The words "cây" and "木" mean "tree" in Vietnamese and Chinese respectively.
 
 Don’t know exactly how yet, but we plan to make a Kickstarter to gather the funds beginning of 2025 to be able to do the work sustainably.
