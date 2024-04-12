@@ -24,6 +24,7 @@ And maybe, I can do both in the process, a game needs music too.
 The name of the game will be - Wisdom of the Trees - (智慧の木 in Japanese).
 
 And we are the - c本y crew -.
+
 The words "cây" means "tree" or "木" in Chinese and pronounced like "K" in Vietnamese, while "本" means "root" and looks like "Â".
 The similarities between languages are fascinating.
 
