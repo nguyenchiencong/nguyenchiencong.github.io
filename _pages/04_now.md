@@ -8,9 +8,9 @@ permalink: /now
 
 I’m building a Rails dictionary-based learning app for the Chinese language because I like the way the Chinese language works,
 only for my use locally for now.
-The dictionary part is mostly finished. For the grammatical part, I’m still taking time to learn all the corners of the grammar to be able to compact it.
+The [dictionary](/files/dictionary.png) part is mostly finished. For the grammatical part, I’m still taking time to learn all the twists and turns of the grammar to be able to compact it.
 It's in Vietnamese though. I’d like to publish it online for free but that would mean that I will have to sustain it financially.
-I might open-source it someday.
+I will open-source it someday.
 
 We are in the process of closing down our plants nursery/shop and finding a new home to live in. It was fun. I've come to appreciate our friends, the trees more.
 We've had some plans to move to a place near a lake and a small forest, but they fell through. So now, we're staying in the same city for at least 6 more months.
