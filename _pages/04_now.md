@@ -14,6 +14,7 @@ I might open-source it someday.
 
 We are in the process of closing down our plant shop and finding a new home to live in.
 We've had some plans to move, but they failed. So now, we're staying in the same city for at least 6 more months.
+Our cat will still be able to use his indoor litterbox and his two cardboard properties and our dog will still have to bear the hostility of city dwellers.
 
 I have to make a temporary halt to my process of making a piano concerto.
 With Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot for our living, mostly because it’s fun too.
