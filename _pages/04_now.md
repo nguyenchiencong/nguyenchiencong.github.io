@@ -21,7 +21,7 @@ I have to make a temporary halt to the process of composing a piano concerto and
 Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun too.
 And maybe, I can do both in the process, a game needs music too.
 
-The name of the game will be - Wisdom of the Trees - (哲学の木 in Japanese). And we are the - c本y crew -.
+The name of the game will be - Wisdom of the Trees - (智慧の木 in Japanese). And we are the - c本y crew -.
 The words "cây" means "tree" or "木" in Chinese and pronounced like "K" in Vietnamese, while "本" means "root" and looks like "Â".
 The similarity between languages are fascinating.
 
