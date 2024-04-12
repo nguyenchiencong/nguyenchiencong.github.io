@@ -20,7 +20,7 @@ With Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot for 
 The name of the game will be - Wisdom of the Trees. And we are the - c木y crew. The words "cây" and "木" mean "tree" in Vietnamese and Chinese respectively.
 
 Don’t know exactly how yet, but we plan to make a Kickstarter to gather the funds beginning of 2025 to be able to do the work sustainably.
-We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript.
+We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript, playing with Godot and implementing game design.
 
 We need to upgrade a few PCs and buy some tablets for drawing, kind of expensive after all.
 Guess, we'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
