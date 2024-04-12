@@ -16,7 +16,7 @@ We are in the process of closing down our plants nursery/shop and finding a new 
 We've had some plans to move to a place near a lake and a small forest, but they fell through. So now, we're staying in the same city for at least 6 more months.
 Our cat will still be able to use his indoor litterbox and his two cardboard properties and our dog will still have to bear the hostility of city dwellers.
 
-I have to make a temporary halt to my process of composing a piano concerto and a symphony.
+I have to make a temporary halt to the process of composing a piano concerto and a symphony.
 Instead, with Jane and Pink Dawn, we've decided to make an RPG game in 2D with Godot to earn a living income, and mostly because it’s fun too.
 The name of the game will be - Wisdom of the Trees. And we are the - c木y crew. The words "cây" and "木" mean "tree" in Vietnamese and Chinese respectively.
 
