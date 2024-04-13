@@ -18,8 +18,7 @@ We've had some plans to move to a place near a lake and a small forest (林), bu
 Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
 I have to make a temporary halt to the process of composing a piano concerto and a symphony.
-Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun.
-And maybe, I can do both in the process, a game needs music too after all.
+Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all.
 
 The name of the game will be - Wisdom of the Trees - (智慧の林 in Japanese).
 
