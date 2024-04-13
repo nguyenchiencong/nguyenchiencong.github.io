@@ -19,7 +19,7 @@ Our cat will still be able to use his indoor litter box and his two cardboard pr
 
 I have to make a temporary halt to the process of composing a piano concerto and a symphony.
 Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun too.
-And maybe, I can do both in the process, a game needs music too.
+And maybe, I can do both in the process, a game needs music too after all.
 
 The name of the game will be - Wisdom of the Trees - (智慧の林 in Japanese).
 
@@ -35,6 +35,6 @@ We need to upgrade a few PCs and buy some tablets for drawing, kind of expensive
 Guess, we'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
 Artificial Intelligence right now is kind of cool: it helps us code, draw, make voice-overs, and everything faster.
-Knowledge is cheap nowadays, and AI is just an extension of mankind. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like man, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, should one ask what is intelligence first? In Chinese, intelligence means 慧, composed of 彗 (comet) and 心 (heart), can be interpreted as light from the heart. And wisdom (智慧) means intelligence of the mind. Should the heart and the mind be one? Fun right?
+Knowledge is cheap nowadays, and AI is just an extension of mankind. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like man, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, should one ask what is intelligence first? In Chinese, intelligence means 慧, composed of 彗 (comet) and 心 (heart), can be interpreted as light from the heart. And wisdom (智慧) means intelligence of the mind (active) or the intelligent mind (passive). Shouldn't the heart and the mind be one? Fun right?
 
-C.
+C.C.
