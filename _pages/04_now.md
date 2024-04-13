@@ -36,6 +36,6 @@ Guess, we'll upgrade everything progressively and just powerful enough so we can
 Artificial Intelligence right now is kind of cool: it helps us code, draw, make voice-overs, and everything faster.
 Knowledge is cheap nowadays, and AI is just an extension of mankind. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like man, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, shouldn't one ask what is intelligence first? In Chinese, intelligence means 慧, composed of 彗 (comet) and 心 (heart); it can be interpreted as light from the heart. And 智慧 (wisdom) literally means intelligence of the mind (active) or the intelligent mind (passive); it has the word 慧 in it. Shouldn't the heart and the mind be one?
 
-Thus, Artificial Intelligence is still artificial, with no intelligence in that sense, because it doesn't come from the heart; powerful tool though. In that same line of thought, as long as man doesn't radically change, society will not change and AI will not have any substantial intelligence. Fun right?
+Thus, Artificial Intelligence is still artificial, a cultivated intelligence, with no intelligence in that sense, because it doesn't come from the heart. It is a powerful tool though. And, in that same line of thought, as long as man doesn't radically change, society will not change and AI will not have any substantial intelligence. Fun right?
 
 C.C.
