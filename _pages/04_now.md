@@ -47,9 +47,9 @@ C.C.
 
 Things that I like:
 
-[Books](https://cong.lol/books)
+[Books](/books)
 
-[Paintings](https://cong.lol/paintings)
+[Paintings](/paintings)
 
 <br>
 <br>
