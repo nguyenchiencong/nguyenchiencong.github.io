@@ -25,12 +25,12 @@ Ending of time - J. Krishnamurti
 <br>
 
 Religion and emptiness - Keiji Nishitani
-> Detailed philosophical investigations on both western and eastern philosophies.
+> Detailed investigations on both western and eastern philosophies.
 <br>
 <br>
 
 Tao Te Ching - Laozi
-> Great way to learn chinese. One can see a less pragmatic angle to the Chinese culture.
+> Great way to learn chinese. One can see a less pragmatic angle to the Chinese culture. Better read in a Chinese-related language.
 <br>
 <br>
 
@@ -45,7 +45,7 @@ Siddhartha - Hermann Hesse
 <br>
 
 Le petit prince - Antoine de Saint-Exupéry
-> It has everything in it. Adventure, imagination, compassion, etc.
+> It has everything in it. Innocence, adventure, curiosity, imagination, compassion, etc.
 <br>
 <br>
 
@@ -61,3 +61,8 @@ Pale blue dot - Carl Sagan
 
 Habibi - Craig Thompson
 > Beautiful graphic novel. I love the name: Habibi means "my love" in Arabic.
+<br>
+<br>
+
+Songs of innocence and of experience - William Blake
+> I don't like poetry much but this one rings a bell. Two stages of life. One light, one dark.
