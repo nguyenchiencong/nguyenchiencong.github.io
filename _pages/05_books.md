@@ -55,7 +55,7 @@ Pale blue dot - Carl Sagan
 <br>
 
 [The Feynman lectures on physics](https://www.feynmanlectures.caltech.edu) - Richard Feynman
-> One of the best way to dig into physics.
+> One of the best ways to dig into physics.
 <br>
 <br>
 
