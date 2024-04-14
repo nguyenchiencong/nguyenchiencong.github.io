@@ -10,7 +10,7 @@ Because new is a word for something which has never been before. And that area c
 
 A good book, like a good piece of music, may have its peculiar vibrations of sound because it might resonate in one's mind and not invent new fetters for one; it has no other pretense. Read it again if you want to, but understand it, not to analyze or to memorize. »
 
-Except from [Wisdom of a grain of sand](/).
+Excerpt from [Wisdom of a grain of sand](/).
 
 <br>
 <hr>
