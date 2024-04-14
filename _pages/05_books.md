@@ -20,7 +20,7 @@ Here are a few books that I liked:
 <br>
 
 Ending of time - J. Krishnamurti
-> A great dialogue betwen two beautiful minds: J. Krishnamurti, David Bohm
+> A great dialogue between two beautiful minds: J. Krishnamurti, David Bohm
 <br>
 <br>
 
