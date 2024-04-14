@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-12 april 2024,
+14 april 2024,
 
 I’m building a Rails dictionary-based learning app to study the Chinese language because I like the way it works,
 only for my use for now, locally.
@@ -40,3 +40,16 @@ So, if one sees intelligence as something from the heart, not just as an ability
 Fun right?
 
 C.C.
+
+<br>
+<hr>
+<br>
+
+Things that I like:
+
+[Books](https://cong.lol/books)
+
+[Paintings](https://cong.lol/paintings)
+
+<br>
+<br>
