@@ -6,7 +6,7 @@ permalink: /now
 
 24 april 2024,
 
-For more than a week, I've been dealing with duodenal ulcers caused by a bacteria called Helicobacter Pylori. It's really tiring to take antibiotics, and for me especially Tetracycline; it just wears me down. Honestly, this is my first time on antibiotics and I don't like it at all. Antibiotics, while trying to destroy all bacteria, can mess up your gut microbiome and build up antimicrobial resistance. On the note, there are alternative and/or complementary remedies to this, and I've been taking turmeric powder with honey. A great deal of research has been made on that, you should check it out if you have stomach problems. I find it funny that modern medecine just systematically goes for the hardcore way.
+For more than a week, I've been dealing with duodenal ulcers caused by a bacteria called Helicobacter Pylori. It's really tiring to take antibiotics, and for me especially Tetracycline; it just wears me down. Honestly, this is my first time on antibiotics and I don't like it at all. Physically, I've never felt this weak. Antibiotics, while trying to destroy all bacteria, can mess up your gut microbiome and build up antimicrobial resistance. On the note, there are alternative and/or complementary remedies to this, and I've been taking turmeric powder with honey. A great deal of research has been made on that, you should check it out if you have stomach problems. I find it funny that modern medecine just systematically goes for the hardcore way.
 
 ### Learning chinese
 
