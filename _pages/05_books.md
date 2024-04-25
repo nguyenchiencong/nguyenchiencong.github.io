@@ -30,7 +30,7 @@ Religion and nothingness - Keiji Nishitani
 <br>
 
 Tao Te Ching - Laozi
-> Great way to learn chinese. One can see a less pragmatic angle to the Chinese culture. Better read in a Chinese-related language.
+> A less pragmatic angle to the Chinese culture. A strange kind of Eastern monism. Probably a collection of texts from many authors. Better read in a Chinese-related language.
 <br>
 <br>
 
