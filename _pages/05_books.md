@@ -24,7 +24,7 @@ Ending of time - J. Krishnamurti
 <br>
 <br>
 
-Religion and emptiness - Keiji Nishitani
+Religion and nothingness - Keiji Nishitani
 > Detailed investigations on both western and eastern philosophies.
 <br>
 <br>
