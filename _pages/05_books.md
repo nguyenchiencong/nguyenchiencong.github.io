@@ -30,7 +30,7 @@ Religion and nothingness - Keiji Nishitani
 <br>
 
 Tao Te Ching - Laozi
-> A less pragmatic angle to the Chinese culture. A strange kind of Eastern monism. Probably a collection of texts from many authors. Better read in a Chinese-related language.
+> A less pragmatic philosophy on living yet very practical for the rulers. Probably a collection of texts from many authors. Better read in a Chinese-related language. The english version translated by [Stefan Stenudd](https://www.taoistic.com/taoteching-laotzu) is quite good.
 <br>
 <br>
 
