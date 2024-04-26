@@ -30,7 +30,7 @@ Religion and nothingness - Keiji Nishitani
 <br>
 
 Tao Te Ching - Laozi
-> A less pragmatic philosophy on living yet very practical for the rulers. Probably a collection of texts from many authors. Better read in a Chinese-related language. The english version translated by [Stefan Stenudd](https://www.taoistic.com/taoteching-laotzu) is quite good.
+> A less pragmatic philosophy on living and yet very practical for the rulers. Probably a collection of texts from many authors. Better read in a Chinese-related language. Though, the english version translated by [Stefan Stenudd](https://www.taoistic.com/taoteching-laotzu) is quite good.
 <br>
 <br>
 

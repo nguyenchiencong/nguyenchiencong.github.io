@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-24 april 2024,
+26 april 2024,
 
 For more than a week, I've been dealing with duodenal ulcers caused by a bacteria called Helicobacter Pylori. It's really tiring to take antibiotics, and for me especially Tetracycline; it just wears me down. Honestly, this is my first time on antibiotics and I don't like it at all. Physically, I've never felt this weak. Antibiotics, while trying to destroy all bacteria, can mess up your gut microbiome and build up antimicrobial resistance. On the note, there are alternative and/or complementary remedies to this, and I've been taking turmeric powder with honey. A great deal of research has been made on that, you should check it out if you have stomach problems. I find it funny that modern medecine just systematically goes for the hardcore way.
 
@@ -14,8 +14,11 @@ I’m building a Rails dictionary-based learning app to study the Chinese langua
 only for my use for now, locally.
 The [dictionary](/files/dictionary.png) part is mostly finished, it is used to access the knowledge tree of the language.
 For the grammatical part, I’m still taking time to learn all the twists and turns of the grammar to be able to compact it.
-It's in Vietnamese though. I’d like to publish it online for free but that would mean that I will have to somehow sustain it financially.
-I will open-source it someday.
+It's in Vietnamese though. I’d like to publish it online for free and will open-source it someday.
+
+I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations pretty bad.
+Either they lack philosophical insight or the understanding of the chinese language is not up to par.
+It's a good exercise to learn the language chinese and I/m adding it to the practice section of the app.
 
 ### Plants nursery
 
