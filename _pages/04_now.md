@@ -18,7 +18,7 @@ It's in Vietnamese though. I’d like to publish it online for free and will ope
 
 I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations pretty bad.
 Either they lack philosophical insight or the understanding of the chinese language is not up to par.
-It's a good exercise to learn the language chinese and I/m adding it to the practice section of the app.
+It's a good exercise to learn the chinese language and I'm adding it to the practice section of the app.
 
 ### Plants nursery
 
