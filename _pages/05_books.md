@@ -32,10 +32,6 @@ Religion and nothingness - Keiji Nishitani
 Tao Te Ching - Laozi
 > A less conventionally pragmatic philosophy, unlike Confucianism.
 > Probably a collection of texts from many authors. Better read in a Chinese-related language.
-> Insightful yet somehow too metaphysical while still trying to be practical, and thus still too abstract.
-> It's like telling how without asking why.
-> Metaphysics is still a self-projected approach to reality after all, not reality itself.
-> Which is why, there's no mention of 由, as in 情由 (love?) and 自由 (freedom), imho, necessary when conveying such a monad.
 >
 > The english version translated by [Stefan Stenudd](https://www.taoistic.com/taoteching-laotzu) is quite good.
 <br>
