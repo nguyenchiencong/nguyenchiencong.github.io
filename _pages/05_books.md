@@ -19,18 +19,24 @@ Here are a few books that I liked:
 <br>
 <br>
 
-Ending of time - J. Krishnamurti
-> A great dialogue between two beautiful minds: J. Krishnamurti, David Bohm
+The ending of time - J. Krishnamurti, David Bohm
+> A great dialogue between two beautiful minds: J. Krishnamurti and David Bohm.
 <br>
 <br>
 
 Religion and nothingness - Keiji Nishitani
-> Detailed investigations on both western and eastern philosophies.
+> Detailed investigations on both Western and Eastern philosophies.
 <br>
 <br>
 
 Tao Te Ching - Laozi
-> A less pragmatic philosophy on living and yet very practical for the rulers. Probably a collection of texts from many authors. Better read in a Chinese-related language. Though, the english version translated by [Stefan Stenudd](https://www.taoistic.com/taoteching-laotzu) is quite good.
+> A less conventionally pragmatic philosophy, unlike Confucianism.
+> Probably a collection of texts from many authors. Better read in a Chinese-related language.
+> Insightful yet somehow too metaphysical while still trying to be practical, and thus still too abstract.
+> Metaphysics is still a self-projected approach to reality after all, yet not reality itself.
+> Which is why, there's no mention of 由, as in 情由 (love?) and 自由 (freedom), imho, necessary when conveying such a monad.
+>
+> The english version translated by [Stefan Stenudd](https://www.taoistic.com/taoteching-laotzu) is quite good.
 <br>
 <br>
 
