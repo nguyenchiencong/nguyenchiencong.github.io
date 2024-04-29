@@ -4,9 +4,9 @@ title: Now
 permalink: /now
 ---
 
-26 april 2024,
+29 april 2024,
 
-For more than a week, I've been dealing with duodenal ulcers caused by a bacteria called Helicobacter Pylori. It's really tiring to take antibiotics, and for me especially Tetracycline; it just wears me down. Honestly, this is my first time on antibiotics and I don't like it at all. Physically, I've never felt this weak. Antibiotics, while trying to destroy all bacteria, can mess up your gut microbiome and build up antimicrobial resistance. On the note, there are alternative and/or complementary remedies to this, and I've been taking turmeric powder with honey. A great deal of research has been made on that, you should check it out if you have stomach problems. I find it funny that modern medecine just systematically goes for the hardcore way.
+I'm much better now after nearly two weeks of dealing with duodenal ulcers caused by a bacteria called Helicobacter Pylori. It's really tiring to take antibiotics, and for me especially Tetracycline; it just wears me down. Honestly, this is my first time on antibiotics and I don't like it at all. Physically, I've never felt this weak. Antibiotics, while trying to destroy all bacteria, can mess up your gut microbiome and build up antimicrobial resistance. On the note, there are alternative and/or complementary remedies to this, and I've been taking turmeric powder with honey. A great deal of research has been made on that, you should check it out if you have stomach problems. I find it funny that modern medecine just systematically goes for the hardcore way.
 
 ### Learning chinese
 
@@ -16,14 +16,17 @@ The [dictionary](/files/dictionary.png) part is mostly finished, it is used to a
 For the grammatical part, I’m still taking time to learn all the twists and turns of the grammar to be able to compact it.
 It's in Vietnamese though. I’d like to publish it online for free and will open-source it someday.
 
-I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations pretty bad.
+I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations that I've read pretty bad.
 Either they lack philosophical insight or the understanding of the chinese language is not up to par.
 It's a good exercise to learn the chinese language and I'm adding it to the practice section of the app.
 
 ### Plants nursery
 
-We are in the process of closing down our plants nursery/shop and finding a new home to live in. It was fun. I've come to appreciate our friends, the trees (木) more.
-We've had some plans to move to a place near a lake and a small forest (林), but they fell through. So now, we're staying in the same city for at least 6 more months.
+We are in the process of closing down our plants nursery/shop. 
+It was fun. I've come to appreciate our friends, the trees (木) more.
+We've had some plans to move to a place near a lake and a small forest (林), but they fell through.
+So now, we're staying in the same city for at least 6 more months.
+We are moving our remaining plants to our new small flat. It's a noisy area, but it has a West-directed view, which is perfect for watching sunset every day. 
 Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
 ### Making a game
