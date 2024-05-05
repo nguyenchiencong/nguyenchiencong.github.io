@@ -61,5 +61,7 @@ Things that I like:
 
 [Paintings](/paintings)
 
+[Music](/music)
+
 <br>
 <br>
