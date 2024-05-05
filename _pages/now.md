@@ -59,9 +59,9 @@ Things that I like:
 
 [Books](/books)
 
-[Paintings](/paintings)
-
 [Music](/music)
+
+[Paintings](/paintings)
 
 <br>
 <br>
