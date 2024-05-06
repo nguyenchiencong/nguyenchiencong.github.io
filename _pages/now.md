@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-4 may 2024,
+6 may 2024,
 
 ### Learning chinese
 
@@ -27,10 +27,11 @@ So now, we're staying in the same city for at least 6 more months.
 We are moving our remaining plants to our new small flat. It's a noisy area, but it has a West-directed view, which is perfect for watching sunset every day. 
 Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
-### Making a game
+### Making music
 
-I have to make a temporary halt to the process of composing a piano concerto and a symphony.
-Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all.
+I have to make a temporary halt to the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all. I've given my digital piano a few months ago, and now we're saving up for another one. So, once purchased, alongside playing for fun, I'll be making game music and maybe composing a piano sonata.
+
+### Making a game
 
 The name of the game will be - Wisdom of the Trees - (智慧の林 in Japanese).
 
