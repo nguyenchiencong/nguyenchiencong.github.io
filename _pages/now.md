@@ -29,7 +29,7 @@ Our cat will still be able to use his indoor litter box and his two cardboard pr
 
 ### Making music
 
-I have to make a temporary halt to the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all. I've given my digital piano a few months ago, and now we're saving up for another one. So, once purchased, alongside playing for fun, I'll be making game music and maybe composing a piano sonata.
+I have to make a temporary halt to the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all. I've given my digital piano to a friend a few months ago, and now we're saving up for another one. So, once purchased, alongside playing for fun, I'll be making game music and maybe composing a piano sonata.
 
 ### Making a game
 
