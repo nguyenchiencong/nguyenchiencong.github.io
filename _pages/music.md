@@ -11,11 +11,17 @@ Excerpt from [Wisdom of a grain of sand](/).
 <br>
 <hr>
 
-Music is something entirely personal to me. When listening to a piece, if one listens carefully one can hear the composer and the life behind the composition. I hate to practice in a conventional sense, i.e. repeating endlessly the same patterns without joy. I don't like to put a price or a target for playing music, meaning I don't play music for anyone. I like the piano very much, and most of the time I play alone, sometimes maybe with my partner or just a friend listening. I stopped recording a while ago. And, every time I play, it's just improvisation and I don't know which note I'm going to play next. But, in the flow of the moment, there's this music that guides you, and that's passion. You don't know what's coming but it still guides you somehow, your fingers on both hands become dancers in a way. Choppy or graceful, it doesn't matter, you are the music of the moment. Even technicality can be overcome at this point. You don't need to reproduce what you've just played.  
+Music is something entirely personal to me. When listening to a piece, if one listens carefully one can hear the composer and the life behind the composition. I'm averse to practice in a conventional sense, i.e. repeating endlessly the same patterns without joy like a machine. I don't like to put a price or a target for playing music, meaning I don't play music for anyone. I like the piano very much, and most of the time I play alone, sometimes maybe with my partner or just a friend listening. I stopped recording a while ago. And, every time I play, it's just improvisation and I don't know which note I'm going to play next. But, in the flow of the moment, there's this music that guides you, and that's passion. You don't know what's coming but it still guides you somehow, your fingers on both hands become dancers in a way. Choppy or graceful, it doesn't matter, you are the music of the moment. Even technicality can be overcome at this point. You don't need to reproduce what you've just played.  
 
 I had a plan beginning of 2024 to compose a piano concerto and a symphony because it's a lot of fun to make instruments work harmoniously together in an ensemble. I have to make a temporary halt right now but it will be resumed, as long as I'm still alive. For the near future, I'll be making music for a game and maybe a piano sonata.
+
+<br>
+<hr>
 
 I like this piece very much:  
 <a href="https://www.youtube.com/watch?v=o6nSa6UDiKc">Sviatoslav Richter plays Saint-Saëns Piano Concerto No.5</a>.
 
+<hr>
 
+A recording from 7 years ago: Painter's dream
+<audio src="files/painter_s_dream.mp3" controls></audio>
