@@ -23,5 +23,5 @@ I like this piece very much:
 
 <hr>
 
-A recording from 7 years ago: Painter's dream
+A recording from 2017: Painter's dream
 <audio src="files/painter_s_dream.mp3" controls></audio>
