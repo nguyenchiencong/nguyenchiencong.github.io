@@ -4,14 +4,14 @@ title: Now
 permalink: /now
 ---
 
-6 may 2024,
+8 may 2024,
 
 ### Learning chinese
 
 I’m building a Rails dictionary-based learning app to study the Chinese language because I like the way it works,
 only for my use for now, locally.
-The [dictionary](/files/dictionary.png) part is mostly finished, it is used to access the knowledge tree of the language.
-For the grammatical part, I’m still taking time to learn all the twists and turns of the grammar to be able to compact it.
+The [dictionary](/files/dictionary.png) part is finished, it is used to access the knowledge tree of the language.
+For the grammatical part, I've understood the sentence structure and summarizing all the details.
 It's in Vietnamese though. I’d like to publish it online for free and will open-source it someday.
 
 I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations that I've read pretty bad.
