@@ -60,6 +60,8 @@ Things that I like:
 
 [Books](/books)
 
+[Game](/game)
+
 [Music](/music)
 
 [Paintings](/paintings)
