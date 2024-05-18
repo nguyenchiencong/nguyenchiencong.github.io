@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-8 may 2024,
+18 may 2024,
 
 ### Learning chinese
 
@@ -20,11 +20,9 @@ It's a good exercise to learn the chinese language and I'm adding it to the prac
 
 ### Plants nursery
 
-We are in the process of closing down our plants nursery/shop. 
-It was fun. I've come to appreciate our friends, the trees (木) more.
-We've had some plans to move to a place near a lake and a small forest (林), but they fell through.
-So now, we're staying in the same city for at least 6 more months.
-We are moving our remaining plants to our new small flat. It's a noisy area, but it has a West-directed view, which is perfect for watching sunset every day. 
+Our plants nursery/shop Lapinou is now closed. Intense moving for the last two weeks.
+The whole thing was fun. I've come to appreciate our friends, the trees (木) more.
+We have moved our remaining plants to our new small flat. It's a noisy area, but it has a West-directed view, which is perfect for watching sunset every day. 
 Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
 ### Making music
@@ -42,8 +40,9 @@ The word "cây" means "tree" or "木" in Chinese and pronounced like "K" in Viet
 Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gather the funds beginning of 2025 to be able to do the work sustainably.
 We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript, playing with Godot and implementing game design.
 
-We need to upgrade a few PCs and buy some tablets for drawing, kind of expensive after all.
-Guess, we'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
+We are setting up our - c本y crew - office, which is also our home for now, with around 100+ plants/trees.
+A friend generously proposed to help us financially to upgrade a few PCs and buy some tablets for drawing.
+We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
 Artificial Intelligence right now is kind of cool: it helps us code, draw, make voice-overs, and everything faster.
 Knowledge is cheap nowadays, and AI is an extension of mankind. Simply put, it's just an optimisation algorithm using gradient descent to minimize errors, applied on a gigantic base of inputs, with enormous computing power. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like man, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, shouldn't one ask what is intelligence first? In Chinese, intelligence means 慧, composed of 彗 (comet) and 心 (heart); it can be interpreted as light from the heart. And 智慧 (wisdom) literally means intelligence of the mind (active) or the intelligent mind (passive); it has the word 慧 in it. Shouldn't the heart and the mind be one?
