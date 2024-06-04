@@ -8,14 +8,14 @@ permalink: /now
 
 ### Learning chinese
 
-I like the way the Chinese language works so I built a Rails dictionary-based learning app.
-I've finished and deployed it at [Hanzi.live](https://hanzi.live).  
+I like the way the Chinese language works so I've built a Rails dictionary-based learning app.
+It's finished and deployed at [Hanzi.live](https://hanzi.live).  
 It is used to access the knowledge tree of the language. I've condensed the grammar into various types of sentence structures.  
 It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
 
 I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations that I've read pretty bad.
 Either they lack philosophical insight or the understanding of the chinese language is not up to par.
-It's a good exercise to learn the chinese language and I'm adding it to the practice section of the app.
+It's a good exercise to learn the chinese language and I'm updating it inside the practice section of the app.
 
 ### Plants nursery
 
