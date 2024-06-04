@@ -4,15 +4,14 @@ title: Now
 permalink: /now
 ---
 
-18 may 2024,
+4 june 2024,
 
 ### Learning chinese
 
-I’m building a Rails dictionary-based learning app to study the Chinese language because I like the way it works,
-only for my use for now, locally.
-The [dictionary](/files/dictionary.png) part is finished, it is used to access the knowledge tree of the language.
-For the grammatical part, I've understood (not memorized yet) the various types of sentence structure and am now summarizing the details.
-It's in Vietnamese though. I’d like to publish it online for free and will open-source it someday.
+I like the way the Chinese language works so I built a Rails dictionary-based learning app.
+I've finished and deployed it at [Hanzi.live](https://hanzi.live).  
+It is used to access the knowledge tree of the language. I've condensed the grammar into various types of sentence structures.  
+It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
 
 I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations that I've read pretty bad.
 Either they lack philosophical insight or the understanding of the chinese language is not up to par.
@@ -20,8 +19,7 @@ It's a good exercise to learn the chinese language and I'm adding it to the prac
 
 ### Plants nursery
 
-Our plants nursery/shop Lapinou is now closed. Intense moving for the last two weeks.
-The whole thing was fun. I've come to appreciate our friends, the trees (木) more.
+Our plants nursery/shop Lapinou is now closed. The whole thing was fun. I've come to appreciate our friends, the trees (木) more.
 We have moved our remaining plants to our new small flat. It's a noisy area, but it has a West-directed view, which is perfect for watching sunset every day. 
 Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
