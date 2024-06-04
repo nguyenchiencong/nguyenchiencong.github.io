@@ -9,7 +9,7 @@ permalink: /now
 ### Learning chinese
 
 I like the way the Chinese language works so I've built a Rails dictionary-based learning app.
-It's somewhat finished and deployed at [Hanzi.live](https://hanzi.live). I will keep improving the current features without adding now one from now on.  
+It's somewhat finished and deployed at [Hanzi.live](https://hanzi.live). I will keep improving the current features without adding new ones from now on.  
 It is intended to be used to access the knowledge tree of the language. I've condensed the grammar of the language into various types sentences and words. It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
 
 I'm translating the Tao Te Ching in Vietnamese as I find the vietnamese translations that I've read pretty bad.
