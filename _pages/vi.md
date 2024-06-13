@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sự thông thái của một hạt cát - Nguyễn Chiến Công.
+title: Sự thông thái của một hạt cát.
 tagline: Sự thông thái của một hạt cát (2023) | Một cuốn sách triết học về bản chất của cái tôi.
 description: Cuốn sách -- Sự thông thái của một hạt cát -- là một cuộc điều tra triết học về bản chất của cái tôi. Như một cái gương cho suy nghĩ, nó dẫn dắt người đọc qua những câu hỏi hiện sinh khác nhau mà người ta nên hỏi nếu thực sự nghiêm túc với cuộc sống của mình.
 permalink: /vi

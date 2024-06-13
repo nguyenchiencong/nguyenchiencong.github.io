@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La sagesse d'un grain de sable - Nguyen Chien Cong
+title: La sagesse d'un grain de sable.
 tagline: La sagesse d'un grain de sable (2023) | Un livre de philosophie sur la nature de soi.
 description: Le livre -- La sagesse d’un grain de sable --  est une enquête philosophique sur la nature du soi. Tel est un miroir de nos pensées, il guide le lecteur à travers diverses questions existentielles que l'on pourrait se poser si l'on prend vraiment la vie au sérieux.
 permalink: /fr
