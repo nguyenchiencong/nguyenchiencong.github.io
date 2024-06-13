@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://cong.lol/</loc>
+		<lastmod>2024-06-12</lastmod>
+    <priority>1.00</priority>
+	</url>
+	<url>
 		<loc>https://cong.lol/vi</loc>
-		<lastmod>2024-05-24</lastmod>
+		<lastmod>2024-06-12</lastmod>
+    <priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://cong.lol/fr</loc>
-		<lastmod>2024-05-24</lastmod>
+		<lastmod>2024-06-12</lastmod>
+    <priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://cong.lol/now</loc>
+		<lastmod>2024-06-12</lastmod>
+    <priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://cong.lol/books</loc>
+		<lastmod>2024-06-12</lastmod>
+    <priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://cong.lol/game</loc>
+		<lastmod>2024-06-12</lastmod>
+    <priority>0.80</priority>
 	</url>
 </urlset>
