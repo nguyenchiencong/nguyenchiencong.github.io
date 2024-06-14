@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cong.lol/sitemap.xml
+Sitemap: https://cong.lol/public/sitemap.xml.gz
