@@ -6,3 +6,4 @@ ruby "3.3.0"
 gem 'github-pages'
 gem 'webrick'
 gem 'jekyll-seo-tag'
+gem 'sitemap_generator'
