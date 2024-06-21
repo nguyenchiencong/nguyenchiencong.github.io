@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dao De Jing
-description: A simple and to-the-point translation of the Dao De Jing (Tao Te Ching - 道德經)
+description: A simple and to-the-point translation of the Dao De Jing (Tao Te Ching - 道德經) by Nguyen Chien Cong
 permalink: /dao
 ---
 
