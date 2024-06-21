@@ -5,6 +5,10 @@ description: A simple and to-the-point translation of the Dao De Jing (Tao Te Ch
 permalink: /dao
 ---
 
+To read the vietnamese version, click [here](https://hanzi.live/practice/tao_te_ching).  
+
+<hr>
+
 Most translations of the <o>Dao De Jing</o> or Tao Te Ching (<ch>道德經</ch>) today are quite mediocre. A good translation doesn't need too many footnotes or too much poeticization, but should be still understandable. Translators analyze with their personal and limited perspective, to lose the soul of the work. Because in the end all knowledge is limited, understanding the wisdom of a certain philosophy (<ch>哲學</ch>) will help the translator go beyond the knowledge of words and its language.  
 
 The name <ch>道德經</ch> can be translated as <o>Book of ethics</o>. Ethics in Western languages date back to ēthike (moral philosophy), which draws its origin from the word ēthos (manners). Meanwhile, in Chinese-related languages, <ch>道德</ch> is composed of <ch>道</ch> [way] and <ch>德</ch> [virtue]. The word <ch>道</ch> itself is composed of <ch>辶</ch> [walking] and <ch>首</ch> [head], and the word <ch>德</ch> has <ch>彳</ch> [small step] and <ch>心</ch> [heart] in it.
