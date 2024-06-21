@@ -1,3 +1,9 @@
+o { color: rgb(255, 165, 0) }
+o1 { color: rgb(255, 191, 73) }
+o2 { color: rgb(250, 194, 90) }
+o3 { color: rgb(252, 215, 146) }
+ch { color: rgb(136, 179, 248) }
+
 body {
 	margin: 0;
 	color: $font-color;
@@ -30,7 +36,7 @@ a,
 a:visited {
 	color: $link-color;
 	text-decoration: none;
-	font-weight: bold;
+	// font-weight: bold;
 }
 a:hover {
 	color: $link-hover-color;
@@ -141,4 +147,11 @@ footer {
 
 #home {
   margin: 0 0 40px 0;
+}
+
+table {
+  td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
 }

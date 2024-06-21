@@ -29,9 +29,10 @@ Religion and nothingness - Keiji Nishitani
 <br>
 <br>
 
-Tao Te Ching - Laozi
-> A less conventionally pragmatic philosophy, unlike Confucianism.
-> Probably a collection of texts from many authors. Better read in a Chinese-related language.
+[Tao Te Ching](/dao) - Laozi
+> A short East Asian philosophy classic passed on through millenia.  
+> Probably a collection of texts from many authors.  
+> I made a translation, you can read it [here](/dao).
 <br>
 <br>
 
