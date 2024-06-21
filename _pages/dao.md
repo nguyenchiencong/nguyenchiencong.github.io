@@ -1367,14 +1367,14 @@ C.
     <td><ch>雖有舟輿，無所乘之。雖有甲兵，無所陳之。</ch> <br> Even if there are boats and carriages, there is nowhere to use them. Even if there are armed soldiers, there is nowhere to deploy them.</td>
   </tr>
   <tr>
-    <td><ch>使民復結繩而用之。甘其食，美其服，安其居，樂其俗。</ch> <br> Make the people go back to using knotted cords<o>¹</o> and use what they have. Let them enjoy good food, wear fine clothes, live in peace and comfort, and lead happy daily lives.</td>
+    <td><ch>使民復結繩而用之。甘其食，美其服，安其居，樂其俗。</ch> <br> Make the people go back to using knotted cords<o3>¹</o3> and use what they have. Let them enjoy good food, wear fine clothes, live in peace and comfort, and lead happy daily lives.</td>
   </tr>
   <tr>
     <td><ch>鄰國相望，雞犬之聲相聞，民至老死不相往來。</ch> <br> Neighboring nations can see each other, hear the rooster crowing and the dogs barking echoing back and forth, but the people live to old age without ever crossing paths with each other.</td>
   </tr>
 </table>
 
-<ts>1. Before the invention of writing, people used knots to remember things.</ts>
+<ts><o3>1. Before the invention of writing, people used knots to remember things.</o3></ts>
 
 <!----------------------------------------------------------------------------->
 
