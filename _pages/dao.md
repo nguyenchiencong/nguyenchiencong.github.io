@@ -308,7 +308,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。</ch> <br> A virtuous person is like a scholar, concealing mysterious elegance and grace, where knowledge cannot even reach. Those without knowledge forcibly try to gain it.</td>
+    <td><ch>古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。</ch> <br> A virtuous person is like a scholar, concealing mysterious elegance and grace, where knowledge cannot even reach. Because it cannot be understood, it is forced to be described.</td>
   </tr>
   <tr>
     <td><ch>豫兮若冬涉川。猶兮若畏四鄰。儼兮其若客。渙兮若冰之將釋。敦兮其若樸。曠兮其若谷。混兮其若濁。</ch> <br> Hesitate like crossing a river in winter. Suspect like danger is present from all sides. Dignified like a guest. Dissolve like ice. Unadorned like raw wood. Vast like a valley. Chaotic like muddy water.</td>
