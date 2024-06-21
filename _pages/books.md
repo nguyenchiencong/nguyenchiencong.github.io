@@ -31,8 +31,7 @@ Religion and nothingness - Keiji Nishitani
 
 [Tao Te Ching](/dao) - Laozi
 > A short East Asian philosophy classic passed on through millenia.  
-> Probably a collection of texts from many authors.  
-> I made a translation, you can read it [here](/dao).
+> I made a translation, you can read it in [English](/dao) or [Vietnamese](https://hanzi.live/practice/tao_te_ching).
 <br>
 <br>
 
