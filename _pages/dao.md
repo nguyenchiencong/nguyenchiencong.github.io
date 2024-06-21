@@ -875,7 +875,7 @@ C.
     <td><ch>生之徒十有三，死之徒十有三，人之生，動之死地，亦十有三。夫何故？以其生生之厚。</ch> <br> There are thirteen ways of living, thirteen ways of dying; the life of man inevitably leads to death, and there are thirteen ways to lead there. Why is this so? Because there are many forms of birth and growth.</td>
   </tr>
   <tr>
-    <td><ch>蓋聞善攝生者，陸行不遇兕虎，入軍不被兵甲。兕無所投其角，虎無所措其爪，兵無所容其刃，夫何故？以其無死地。</ch> <br> <o3>It is said that those who nurture life well, do not encounter wild beasts on the road, entering the army does not lead to war. Rhinoceroses have nowhere to thrust their horns, tigers have nowhere to extend their claws, and weapons have nowhere to stab or slash. Why is this so? Because they do not advance towards death.</td>
+    <td><ch>蓋聞善攝生者，陸行不遇兕虎，入軍不被兵甲。兕無所投其角，虎無所措其爪，兵無所容其刃，夫何故？以其無死地。</ch> <br> It is said that those who nurture life well, do not encounter wild beasts on the road, entering the army does not lead to war. Rhinoceroses have nowhere to thrust their horns, tigers have nowhere to extend their claws, and weapons have nowhere to stab or slash. Why is this so? Because they do not advance towards death.</td>
   </tr>
 </table>
 
