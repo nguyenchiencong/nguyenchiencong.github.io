@@ -9,9 +9,9 @@ To read the vietnamese version, click [here](https://hanzi.live/practice/tao_te_
 
 <hr>
 
-Most translations of the <o>Dao De Jing</o> or Tao Te Ching (<ch>道德經</ch>) today are quite mediocre. A good translation doesn't need too many footnotes or too much poeticization, but should be still understandable. Translators analyze with their personal and limited perspective, to lose the soul of the work. Because in the end all knowledge is limited, understanding the wisdom of a certain philosophy (<ch>哲學</ch>) will help the translator go beyond the knowledge of words and its language.  
+Most translations of the <o>Dao De Jing</o> or Tao Te Ching (<ch>道德經</ch>) today are quite mediocre. A good translation doesn't need too many footnotes or too much poeticization, but should be still understandable. Translators analyze with their personal and limited perspective, to lose the soul of the work. Because in the end, all knowledge is limited, understanding the wisdom of a certain philosophy (<ch>哲學</ch>) will help the translator go beyond the knowledge of words and its language.  
 
-The name <ch>道德經</ch> can be translated as <o>Book of ethics</o>. Ethics in Western languages date back to ēthike (moral philosophy), which draws its origin from the word ēthos (manners). Meanwhile, in Chinese-related languages, <ch>道德</ch> is composed of <ch>道</ch> [way] and <ch>德</ch> [virtue]. The word <ch>道</ch> itself is composed of <ch>辶</ch> [walking] and <ch>首</ch> [head], and the word <ch>德</ch> has <ch>彳</ch> [small step] and <ch>心</ch> [heart] in it.
+The name <ch>道德經</ch> can be translated as <o>Book of Ethics</o>. Ethics in Western languages date back to ēthike (moral philosophy), which draws its origin from the word ēthos (manners). Meanwhile, in Chinese-related languages, <ch>道德</ch> is composed of <ch>道</ch> [way] and <ch>德</ch> [virtue]. The word <ch>道</ch> itself is composed of <ch>辶</ch> [walking] and <ch>首</ch> [head], and the word <ch>德</ch> has <ch>彳</ch> [small step] and <ch>心</ch> [heart] in it.
 
 This work is said to be composed by [老子](https://en.wikipedia.org/wiki/Laozi) [Lao Tzu], divided into 2 main parts: Upper and Lower. With erudite words, 81 chapters go through many topics from how to live to how to govern. The Dao De Jing may have been patched together by many authors, and we do not really know exactly who Lao Tzu was. Due to many variations, the number of words in the Dao De Jing is still inconsistent:
 
@@ -222,13 +222,13 @@ C.
     <td><ch>滌除玄覽，能無疵乎？</ch> <br> Sweeping away the darkness, can one avoid mistakes?</td>
   </tr>
   <tr>
-    <td><ch>愛民治國，能無知乎？</ch> <br> Loving the people and governing the nation, can it be done it without any doing?</td>
+    <td><ch>愛民治國，能無知乎？</ch> <br> Loving the people and governing the nation, can it be done without any doing?</td>
   </tr>  
   <tr>
     <td><ch>天門開闔，能為雌乎？</ch> <br> The gate of heaven opens and closes, can it do so without being delicate?</td>
   </tr>  
   <tr>
-    <td><ch>明白四達，能無知乎？</ch> <br> Clear and transparent brightness, can it exist without needing to know?</td>
+    <td><ch>明白四達，能無知乎？</ch> <br> Understand everything clearly, can it be without knowledge?</td>
   </tr>
   <tr>
     <td><ch>生而畜之，生而不有，為而不恃，長而不宰，是謂玄德。</ch> <br> To be born like all things, to live as if possessions do not matter, to be skilled without asking for position, to act without relying on them, this is the mystical virtue.</td>
