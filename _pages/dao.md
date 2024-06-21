@@ -250,7 +250,7 @@ C.
     <td><ch>鑿戶牖以為室，當其無，有室之用。</ch> <br> Carving doors to make a house, it is the emptiness which makes it habitable.</td>
   </tr>
   <tr>
-    <td><ch>故有之以為利，無之以為用。</ch> <br> Therefore, taking advantage of what exists to gain more, and using what does not exist for usefulness.</td>
+    <td><ch>故有之以為利，無之以為用。</ch> <br> Therefore, taking advantage of what exists to gain more, and using what does not exist for its usefulness.</td>
   </tr>  
 </table>
 
