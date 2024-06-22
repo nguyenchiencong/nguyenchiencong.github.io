@@ -157,7 +157,7 @@ C.
     <td><ch>天長地久。天地所以能長且久者，以其不自生，故能長生。</ch> <br> The sky is long-lasting, the earth is enduring. The reason why the sky and earth can endure for so long is because they do not exist for themselves; therefore, they can sustain life indefinitely.</td>
   </tr>
   <tr>
-    <td><ch>是以聖人後其身而身先，外其身而身存。</ch> <br> Therefore, the sage puts himself behind but remains in front, puts himself outside but still remains inside.</td>
+    <td><ch>是以聖人後其身而身先，外其身而身存。</ch> <br> That's why the sage puts himself behind but remains in front, puts himself outside but still remains inside.</td>
   </tr>
   <tr>
     <td><ch>非以其無私耶？故能成其私。</ch> <br> Could it be because of being carefree? Therefore, even personal matters are also carefree.</td>
