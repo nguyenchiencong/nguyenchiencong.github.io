@@ -1206,7 +1206,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>知不知上。不知知病。</ch> <br> Knowing that one doesn't know is the best. Not knowing but thinking one knows is sickness.</td>
+    <td><ch>知不知上。不知知病。</ch> <br> Knowing that one doesn't know is the best. Not knowing but thinking that one knows is sickness.</td>
   </tr>
   <tr>
     <td><ch>聖人不病，以其病病。</ch> <br> The sage is not sick because knowing sickness is sickness itself.</td>
