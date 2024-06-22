@@ -793,7 +793,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>名與身孰親？身與貨孰多？得與亡孰病？</ch> <br> Which is closer, fame or the body? Which is more important, wealth or the body?</td>
+    <td><ch>名與身孰親？身與貨孰多？得與亡孰病？</ch> <br> Which is closer, fame or the body? Which is more important, wealth or the body? Gain or loss, which one is harmful?</td>
   </tr>
   <tr>
     <td><ch>是故甚愛必大費，多藏必厚亡。知足不辱，知止不殆，可以長久。</ch> <br> Therefore, loving too much surely leads to much loss, possessing too much surely results in much loss. Knowing contentment avoids disgrace, knowing when to stop avoids danger, thus one can endure indefinitely.</td>
