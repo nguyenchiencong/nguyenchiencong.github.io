@@ -26,7 +26,7 @@ Many passages are somewhat imperative while still trying to be realistic and the
 
 The Dao De Jing is a work for rulers because it contains a lot of political thinking. But, there is a fundamental problem here: if one understands wu-wei (<ch>無為</ch>), one cannot become a king. To become kings and lords, one must want, that is, to have desire, and to have desire is to have action (<ch>有為</ch>). Wu-wei only has one way, which is to retreat, not do politics, because politics is fundamentally a passion for power and lust after all. Therefore, those who desire to be kings can't understand the Dao De Jing, and those who understand do not want to be kings.
 
-This is just a simple translation, for fun and mainly to learn Chinese, without any further judgment or analysis.
+This is just a simple translation, for fun and mainly to learn Chinese, without any further judgment or analysis.  
 
 C.
 
