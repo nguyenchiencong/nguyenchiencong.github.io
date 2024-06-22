@@ -24,8 +24,6 @@ There are many profound parts and some obscure parts, yet not shallow.
 
 Many passages are somewhat imperative while still trying to be realistic and therefore too abstract for the average reader. It's like saying how to do things without asking why things should be that way. In the end, it is still just a self-projecting approach to reality, not reality itself. Because of the lack of an existential investigation into the nature of thinking and the self. One cannot find order in disorder, one has to look at disorder and understand it first. The main theme of the work is non-action (<ch>無為</ch>), but for non-action to be, it must start from non-self (<ch>無我</ch>). And to be selfless, one has to understand the self beforehand.
 
-Another limitation is the absence of words related to the radical <ch>由</ch> [cause] in the entire work, such as <ch>情由</ch> [love/reason], <ch>自由</ch> [freedom] or <ch>宇宙</ch> [cosmos: infinite time and space]. Necessary when wanting to convey a monism such as <ch>道</ch> [dao/way].
-
 The Dao De Jing is a work for rulers because it contains a lot of political thinking. But, there is a fundamental problem here: if one understands wu-wei (<ch>無為</ch>), one cannot become a king. To become kings and lords, one must want, that is, to have desire, and to have desire is to have action (<ch>有為</ch>). Wu-wei only has one way, which is to retreat, not do politics, because politics is fundamentally a passion for power and lust after all. Therefore, those who desire to be kings can't understand the Dao De Jing, and those who understand do not want to be kings.
 
 This is just a simple translation, for fun and mainly to learn Chinese, without any further judgment or analysis. And it also does not promote the following of Taoism.
