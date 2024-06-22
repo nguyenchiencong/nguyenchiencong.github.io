@@ -1281,7 +1281,7 @@ C.
     <td><ch>民之難治，以其上之有為，是以難治。</ch> <br> The people are hard to govern because those above made too many laws and regulations.</td>
   </tr>
   <tr>
-    <td><ch>民之輕死，以其上求生之厚，是以輕死。</ch> <br> People disregard death because those above them are greedy for life.</td>
+    <td><ch>民之輕死，以其上求生之厚，是以輕死。</ch> <br> The people disregard death because those above them are greedy for life.</td>
   </tr>
   <tr>
     <td><ch>夫唯無以生為者，是賢於貴生。</ch> <br> Only those who do not live for the sake of holding positions are the ones who possess virtue and value life.</td>
