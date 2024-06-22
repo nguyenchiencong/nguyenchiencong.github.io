@@ -13,14 +13,14 @@ Most translations of the <o>Dao De Jing</o> or Tao Te Ching (<ch>道德經</ch>)
 
 The name <ch>道德經</ch> can be translated as <o>Book of Ethics</o>. Ethics in Western languages date back to ēthike (moral philosophy), which draws its origin from the word ēthos (manners). Meanwhile, in Chinese-related languages, <ch>道德</ch> is composed of <ch>道</ch> [way] and <ch>德</ch> [virtue]. The word <ch>道</ch> itself is composed of <ch>辶</ch> [walking] and <ch>首</ch> [head], and the word <ch>德</ch> has <ch>彳</ch> [small step] and <ch>心</ch> [heart] in it.
 
-This work is said to be composed by [老子](https://en.wikipedia.org/wiki/Laozi) [Lao Tzu], divided into 2 main parts: Upper and Lower. With erudite words, 81 chapters go through many topics from how to live to how to govern. The Dao De Jing may have been patched together by many authors, and we do not really know exactly who Lao Tzu was. Due to many variations, the number of words in the Dao De Jing is still inconsistent:
+This work is said to be composed by [老子](https://en.wikipedia.org/wiki/Laozi) [Lao Tzu], divided into 2 main parts: Upper and Lower. With erudite words, 81 chapters go through many topics from how to live to how to govern. The Dao De Jing may have been patched together by many authors, and we do not really know exactly who Lao Tzu was ; it doesn't really matter. Due to many variations, the number of words in the Dao De Jing is still inconsistent:
 
 \* 2 copies of the [Silk Book](https://web.hnmuseum.com/zh-hans/zuixintuijie/%E5%B8%9B%E4%B9%A6%E3%80%8A%E8%80%81% E5%AD%90%E4%B9%99%E6%9C%AC%E3%80%8B) (帛书) written on silk found at Mǎ wáng duī (馬王堆), the first (<ch>甲</ch>) version includes 5342 words, the second (<ch>乙</ch>) version includes 5344 words.  
 \* The book《道德經章句》by Hé Shàng Gōng (河上公) has 5201 words.  
 \* The book《老子道德經注》by Wáng Bì (王弼) has 5162 words.  
 \* The writing on bamboo cards found at Guō diàn (郭店) has over 13,000 words, of which more than 2,000 words are similar to other versions.  
 
-There are many profound parts and some obscure parts, a few chapters lack unity with the whole work. Many passages are somewhat too imperative while still trying to be realistic and are therefore too abstract. It's like saying how to do things without asking why things should be that way. In the end, it is still just a self-projecting approach to reality, not reality itself. Because of the lack of an existential investigation into the nature of thinking and the self. One cannot find order in disorder, one has to look at disorder and understand it first. The main theme of the work is non-action (<ch>無為</ch>), but for non-action to be, it must start from non-self (<ch>無我</ch>). And to be selfless, one has to understand the self beforehand.
+There are many profound parts and some obscure parts. Many passages are somewhat too imperative while still trying to be realistic and are therefore too abstract. It's like saying how to do things without asking why things should be that way. In the end, it is still just a self-projecting approach to reality, not reality itself. Because of the lack of an existential investigation into the nature of thinking and the self. One cannot find order in disorder, one has to look at disorder and understand it first. The main theme of the work is non-action (<ch>無為</ch>), but for non-action to be, it must start from non-self (<ch>無我</ch>). And to be selfless, one has to understand the self beforehand.
 
 Another limitation is the absence of words related to the radical <ch>由</ch> [cause] in the entire work, such as <ch>情由</ch> [love/reason], <ch>自由</ch> [freedom] or <ch>宇宙</ch> [cosmos: infinite time and space]. Necessary when wanting to convey a monism such as <ch>道</ch> [dao/way].
 
@@ -428,13 +428,13 @@ C.
 
 <table>
   <tr>
-    <td><ch>孔德之容，唯道是從。</ch> <br> The appearance of great virtue follows only the Dao.</td>
+    <td><ch>孔德之容，唯道是從。</ch> <br> The appearance of great virtue depends only on the Dao.</td>
   </tr>
   <tr>
-    <td><ch>道之為物，唯恍唯惚。忽兮恍兮，其中有象。恍兮忽兮，其中有物。窈兮冥兮，其中有精。其精甚真，其中有信。</ch> <br> The Dao encompasses all things, being vague and obscure. Because it is not precise, it contains profound matters. Because it is not clear, it holds something that exists. In its dark and subtle nature, there is essence. In its true essence, there is trustworthiness.</td>
+    <td><ch>道之為物，唯恍唯惚。忽兮恍兮，其中有象。恍兮忽兮，其中有物。窈兮冥兮，其中有精。其精甚真，其中有信。</ch> <br> The Dao encompasses all things, being vague and obscure. Because it is not precise, it contains profound matters. Because it is not clear, there is place for existence. In its subtle and graceful nature, there is substance. In such a truthful essence, there is trustworthiness.</td>
   </tr>
   <tr>
-    <td><ch>自古及今，其名不去，以閱衆甫。</ch> <br> From ancient times to the present, its renown has never faded, illuminating all things.</td>
+    <td><ch>自古及今，其名不去，以閱衆甫。</ch> <br> From ancient times to now, its renown has never faded, illuminating all things.</td>
   </tr>
   <tr>
     <td><ch>吾何以知衆甫之狀哉？以此。</ch> <br> How do I know the state of all things at their beginning? Through this.</td>
@@ -475,7 +475,7 @@ C.
     <td><ch>故從事於道者，同於道。德者，同於德。失者，同於失。同於道者，道亦樂得之。同於德者，德亦樂得之。同於失者，失亦樂得之。</ch> <br> Therefore, those who follow the Dao are in harmony with the Dao. Those who follow virtue are in harmony with virtue. Those who embrace loss are in harmony with loss. When in harmony with the Dao, the Dao joyfully accepts them. When in harmony with virtue, virtue joyfully accepts them. When in harmony with loss, loss joyfully accepts them.</td>
   </tr>
   <tr>
-    <td><ch>信不足焉，有不信焉。</ch> <br> Where there is insufficient trust in the many words, there is something not worth trusting.</td>
+    <td><ch>信不足焉，有不信焉。</ch> <br> Where there is insufficient trust, there is something not worth trusting.</td>
   </tr>
 </table>
 
@@ -546,13 +546,13 @@ C.
 
 <table>
   <tr>
-    <td><ch>知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。</ch> <br> Knowing strength, keeping gentleness, creates a channel for the world. Creating a channel for the world, virtue does not depart, returning to purity.</td>
+    <td><ch>知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。</ch> <br> Knowing strength, keeping gentleness, is to be a stream for the world. As a stream for the world, the eternal virtue does not depart, returning to purity.</td>
   </tr>
   <tr>
-    <td><ch>知其白，守其黑，為天下式。為天下式，常德不忒，復歸於無極。</ch> <br> Knowing brightness, keeping darkness, establishes principles for the world. Establishing principles for the world, virtue does not err, returning to infinity.</td>
+    <td><ch>知其白，守其黑，為天下式。為天下式，常德不忒，復歸於無極。</ch> <br> Knowing brightness, keeping darkness, establishes principles for the world. Establishing principles for the world, the eternal virtue does not err, returning to infinity.</td>
   </tr>
   <tr>
-    <td><ch>知其榮，守其辱，為天下谷。為天下谷，常德乃足，復歸於樸。</ch> <br> Knowing honor, keeping humility, creates valleys for the world. Creating valleys for the world, virtue is fulfilled, returning to simplicity.</td>
+    <td><ch>知其榮，守其辱，為天下谷。為天下谷，常德乃足，復歸於樸。</ch> <br> Knowing honor, keeping humility, is to be a valley for the world. As a valley for the world, the eternal virtue is fulfilled, returning to simplicity.</td>
   </tr>
   <tr>
     <td><ch>樸散則為器，聖人用之，則為官長，故大制不割。</ch> <br> Simplicity becomes clemency; the sage uses it to govern effectively. Therefore, the great principle does not divide.</td>
@@ -584,7 +584,7 @@ C.
     <td><ch>以道佐人主者，不以兵強天下。其事好還。師之所處，荊棘生焉。大軍之後，必有凶年。</ch> <br> If using the Dao to assist kings and lords, and not using military force to coerce the world, everything will go smoothly. Where soldiers encamp, thorns and brambles grow. After the grand army passes, surely there will be five years of hardship.</td>
   </tr>
   <tr>
-    <td><ch>故善有果而已，不敢以取強。果而勿矜，果而勿伐，果而勿驕。果而不得已，果而勿強。</ch> <br> Therefore, there is nothing better than doing good to achieve results without needing to exert force. Do it without arrogance, without boasting, without pride. Without any other choice, do without seeking forcefully.</td>
+    <td><ch>故善有果而已，不敢以取強。果而勿矜，果而勿伐，果而勿驕。果而不得已，果而勿強。</ch> <br> Therefore, there is nothing better than doing good to achieve results, without needing to exert force. Do it without arrogance, without boasting, without pride. Without any other choice, do without seeking forcefully.</td>
   </tr>
   <tr>
     <td><ch>物壯則老，是謂不道，不道早已。</ch> <br> Something strong surely ages fast; It is contrary to the Dao, and contrary to the Dao, it is soon to perish.</td>
@@ -597,7 +597,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>夫佳兵者，不祥之器，物或惡之，故有道者不處。</ch> <br> The best weapons are barbaric, everyone fears and hates them, and that's why, those with the Dao don't use them.</td>
+    <td><ch>夫佳兵者，不祥之器，物或惡之，故有道者不處。</ch> <br> The best weapons are terribly harmful, everyone fears and hates them, and that's why, those with the Dao don't use them.</td>
   </tr>
   <tr>
     <td><ch>君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。</ch> <br> The gentleman values the left side when at home, and values the right side when using weapons. Weapons are implements of bad fortune; they are not the tools of the gentleman. They are used only when unavoidable, with a calm demeanor above all. Winning without grace while beautifying it is to fancy murder. And, those who like to kill cannot succeed in life.</td>
@@ -748,7 +748,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>上士聞道，勤而行之。中士聞道，若存若亡。下士聞道，大笑之。不笑不足以為道。</ch> <br> The superior practitioner hears the Dao, diligently practices it. The average practitioner hears the Dao, has it yet is like not having it. The inferior practitioner hears the Dao, laughs out loud. If one does not laugh, then it is not worthy to be called the Dao.</td>
+    <td><ch>上士聞道，勤而行之。中士聞道，若存若亡。下士聞道，大笑之。不笑不足以為道。</ch> <br> The superior practitioner hears the Dao, diligently practices it. The average practitioner hears the Dao, has it yet like not having it. The inferior practitioner hears the Dao, laughs out loud. If one does not laugh, then it is not worthy to be called the Dao.</td>
   </tr>
   <tr>
     <td><ch>故建言有之：明道若昧，進道若退，夷道若纇，上德若谷，大白若辱，廣德若不足，建德若偷，質德若渝。</ch> <br> The ancients said: The Dao that is bright seems dark. The Dao that advances seems to retreat. The Dao that is flat seems to have rough patches. Virtue that is great seems like a valley. Greatness seems like yielding. Virtue that is ample seems lacking. Virtue that is honest seems inelegant. Virtue that is simple seems forever changing.</td>
