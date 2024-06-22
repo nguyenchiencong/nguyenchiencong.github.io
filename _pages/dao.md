@@ -20,7 +20,9 @@ This work is said to be composed by [老子](https://en.wikipedia.org/wiki/Laozi
 \* The book《老子道德經注》by Wáng Bì (王弼) has 5162 words.  
 \* The writing on bamboo cards found at Guō diàn (郭店) has over 13,000 words, of which more than 2,000 words are similar to other versions.  
 
-There are many profound parts and some obscure parts. Many passages are somewhat too imperative while still trying to be realistic and are therefore too abstract. It's like saying how to do things without asking why things should be that way. In the end, it is still just a self-projecting approach to reality, not reality itself. Because of the lack of an existential investigation into the nature of thinking and the self. One cannot find order in disorder, one has to look at disorder and understand it first. The main theme of the work is non-action (<ch>無為</ch>), but for non-action to be, it must start from non-self (<ch>無我</ch>). And to be selfless, one has to understand the self beforehand.
+There are many profound parts and some obscure parts, yet not shallow.  
+
+Many passages are somewhat imperative while still trying to be realistic and therefore too abstract for the average reader. It's like saying how to do things without asking why things should be that way. In the end, it is still just a self-projecting approach to reality, not reality itself. Because of the lack of an existential investigation into the nature of thinking and the self. One cannot find order in disorder, one has to look at disorder and understand it first. The main theme of the work is non-action (<ch>無為</ch>), but for non-action to be, it must start from non-self (<ch>無我</ch>). And to be selfless, one has to understand the self beforehand.
 
 Another limitation is the absence of words related to the radical <ch>由</ch> [cause] in the entire work, such as <ch>情由</ch> [love/reason], <ch>自由</ch> [freedom] or <ch>宇宙</ch> [cosmos: infinite time and space]. Necessary when wanting to convey a monism such as <ch>道</ch> [dao/way].
 
@@ -924,7 +926,7 @@ C.
     <td><ch>使我介然有知，行於大道，惟施是畏。大道甚夷，而民好徑。</ch> <br> If I am straightforward, I understand that, following the main road of the Dao, the only fear is to deviate. The main road is flat, yet people prefer shortcuts.</td>
   </tr>
   <tr>
-    <td><ch>朝甚除，田甚蕪，倉甚虛。服文綵，帶利劍，厭飲食，財貨有餘，是謂盜夸。非道也哉。</ch> <br> The court too divided, the fields too desolate, the granaries too empty. Dressing extravagantly, carrying sharp swords, eating and drinking in excess, possessing surplus wealth, they are arrogant and shameless thief. Thus, is against the Dao.</td>
+    <td><ch>朝甚除，田甚蕪，倉甚虛。服文綵，帶利劍，厭飲食，財貨有餘，是謂盜夸。非道也哉。</ch> <br> The court too divided, the fields too desolate, the granaries too empty. Dressing extravagantly, carrying sharp swords, eating and drinking in excess, possessing surplus wealth, they are arrogant and shameless thieves. Thus, is against the Dao.</td>
   </tr>
 </table>
 
