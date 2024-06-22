@@ -733,7 +733,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>反者道之動。弱者道之用。</ch> <br> Returning is the movement of the Dao. Yielding is the way of the Dao.</td>
+    <td><ch>反者道之動。弱者道之用。</ch> <br> Returning is the movement of the Dao. Yielding is the use of the Dao.</td>
   </tr>
   <tr>
     <td><ch>天下萬物生於有，有生於無。</ch> <br> All things in heaven and on earth come from the existence of something. Existence comes from nothingness.</td>
