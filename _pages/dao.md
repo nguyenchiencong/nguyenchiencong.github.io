@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dao De Jing
-description: A simple and to-the-point translation of the Dao De Jing (Tao Te Ching - 道德經) by Nguyen Chien Cong
+title: Dao De Jing - Book of Ethics
+description: A simple and to-the-point translation of the Dao De Jing - Book of Ethics (Tao Te Ching - 道德經) by Nguyen Chien Cong
 permalink: /dao
 ---
 
