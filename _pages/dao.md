@@ -953,7 +953,7 @@ C.
     <td><ch>含德之厚，比於赤子。毒蟲不螫，猛獸不據，攫鳥不搏。</ch> <br> Holding onto thick virtue is like a child walking naked. The poisonous snake does not bite, the wild beast does not pounce, the hawk does not snatch.</td>
   </tr>
   <tr>
-    <td><ch>骨弱筋柔而握固，未知牝牡之合而脧作，精之至也。終日號而不嗄，和之至也。知和曰常，知常曰明。益生曰祥。心使氣曰強。</ch> <br> Weak bones and soft muscles but a firm grip, not knowing male from female but the genital erect, this is vital energy. Crying all day but not hoarse, this is harmony. Knowing harmony is called constancy, knowing constancy is called enlightenment. Excessive desires for procreation lead to calamity. A strong heart exhausts the vital breath.</td>
+    <td><ch>骨弱筋柔而握固，未知牝牡之合而脧作，精之至也。終日號而不嗄，和之至也。知和曰常，知常曰明。益生曰祥。心使氣曰強。</ch> <br> Weak bones and soft muscles but a firm grip, not knowing male from female but the penis pointing, this is vital energy. Crying all day but not hoarse, this is harmony. Knowing harmony is called constancy, knowing constancy is called enlightenment. Excessive desires for procreation lead to calamity. A strong heart exhausts the vital breath.</td>
   </tr>
   <tr>
     <td><ch>物壯則老，是謂不道，不道早已。</ch> <br> Something strong surely ages fast; It is contrary to the Dao, and contrary to the Dao, it is soon to perish.</td>
