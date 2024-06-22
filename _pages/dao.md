@@ -1148,7 +1148,7 @@ C.
     <td><ch>我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇，儉故能廣，不敢為天下先，故能成器長。</ch> <br> I have three treasures that I hold tightly. First is compassion, second is moderation, and third is not daring to stand before the world. Compassion makes one courageous, moderation makes one generous, and not daring to stand before the world earns long-lasting respect.</td>
   </tr>
   <tr>
-    <td><ch>今舍慈且勇，舍儉且廣，舍後且先，死矣。</ch> <br> Now, abandon compassion to seek courage, abandon moderation to seek expansiveness, abandon staying behind to seek to stand in front, that is perilous path.</td>
+    <td><ch>今舍慈且勇，舍儉且廣，舍後且先，死矣。</ch> <br> Now, abandon compassion to seek courage, abandon moderation to seek expansiveness, abandon staying behind to seek to stand in front, that is a perilous path.</td>
   </tr>
   <tr>
     <td><ch>夫慈以戰則勝，以守則固。天將救之，以慈衛之。</ch> <br> Using compassion to contend will lead to victory, and using it to defend will ensure stability. Whoever is subject to divine assistance, compassion is used to protect.</td>
