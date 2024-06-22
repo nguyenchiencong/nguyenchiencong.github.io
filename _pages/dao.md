@@ -57,7 +57,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。</ch> <br> When everyone in the world knows what beauty is, ugliness has already appeared. When everyone knows what goodness is, true goodness no longer exists.</td>
+    <td><ch>天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。</ch> <br> When everyone in the world knows that beautiful is beautiful, then ugly already exists. When everyone knows that good is good, then goodness ceases to be good.</td>
   </tr>
   <tr>
     <td><ch>故有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。</ch> <br> Therefore, being and non-being create each other, difficult and easy complement each other, long and short shape each other, high and low lean on each other, sound and tone harmonize with each other, before and after follow each other.</td>
@@ -241,16 +241,16 @@ C.
 
 <table>
   <tr>
-    <td><ch>三十輻，共一轂，當其無，有車之用。</ch> <br> Thirty spokes converge on a single hub; it is the emptiness which makes the wheel useful.</td>
+    <td><ch>三十輻，共一轂，當其無，有車之用。</ch> <br> Thirty spokes converge on a single hub; occupying emptiness makes the wheel useful.</td>
   </tr>
   <tr>
-    <td><ch>埏埴以為器，當其無，有器之用。</ch> <br> Mixing earth to make utensils, it is the emptiness which makes them useful.</td>
+    <td><ch>埏埴以為器，當其無，有器之用。</ch> <br> Mixing earth to make utensils, occupying emptiness makes them useful.</td>
   </tr>
   <tr>
-    <td><ch>鑿戶牖以為室，當其無，有室之用。</ch> <br> Carving doors to make a house, it is the emptiness which makes it habitable.</td>
+    <td><ch>鑿戶牖以為室，當其無，有室之用。</ch> <br> Carving doors to make a house, occupying emptiness makes it habitable.</td>
   </tr>
   <tr>
-    <td><ch>故有之以為利，無之以為用。</ch> <br> Therefore, taking advantage of what exists to gain more, and using what does not exist for its usefulness.</td>
+    <td><ch>故有之以為利，無之以為用。</ch> <br> Therefore, use what is to gain advantage, and use what is not to achieve purpose.</td>
   </tr>  
 </table>
 
@@ -393,7 +393,7 @@ C.
     <td><ch>此三者以為文，不足。</ch> <br> These three things are merely superficial etiquette, not complete in any way.</td>
   </tr>
   <tr>
-    <td><ch>故令有所屬。見素抱樸，少私寡欲。</ch> <br> Therefore, commands should depend on simplicity. Maintain a humble and straightforward demeanor. Having few private matters means having few desires.</td>
+    <td><ch>故令有所屬。見素抱樸，少私寡欲。</ch> <br> Therefore, commands should depend on simplicity. That is to maintain a humble and straightforward demeanor. Having few private matters means having few desires.</td>
   </tr>  
 </table>
 
@@ -403,7 +403,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？</ch> <br> Abandoning knowledge ends all worries; respect and despisal, how far apart are they? Good and evil, how different are they?</td>
+    <td><ch>絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？</ch> <br> Abandoning knowledge ends all worries. Respect and despisal, how far apart are they? Good and evil, how different are they?</td>
   </tr>
   <tr>
     <td><ch>人之所畏，不可不畏。荒兮其未央哉。</ch> <br> The place where people fear cannot be not feared. The wilderness is vast and endless.</td>
