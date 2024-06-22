@@ -32,7 +32,7 @@ C.
 
 <hr/>
 
-## 上經 [Upper part] - 道經 [chapters on Dao]
+## 上經 [Upper part] - 道經 [Chapters on the Way]
 
 ### <o>一、</o> Chapter 1
 
