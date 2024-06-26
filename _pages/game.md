@@ -12,7 +12,7 @@ So a game is a much more engaging way to touch base with one's own consciousness
 
 With Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot.  
 
-The name of the game will be - Wisdom of the Trees - (智慧の林 in Japanese).  
+The name of the game will be - Wisdom of the Trees - (樹木的智慧 in Chinese, and 樹木の智慧 in Japanese).  
 
 And we are the - c本y crew - (pronounced K crew).  
 
