@@ -229,7 +229,7 @@ C.
     <td><ch>明白四達，能無知乎？</ch> <br> Understand everything clearly, can it be without knowledge?</td>
   </tr>
   <tr>
-    <td><ch>生而畜之，生而不有，為而不恃，長而不宰，是謂玄德。</ch> <br> To be born like all things, to live as if possessions do not matter, to be skilled without asking for position, to act without relying on them, this is the mystical virtue.</td>
+    <td><ch>生而畜之，生而不有，為而不恃，長而不宰，是謂玄德。</ch> <br> To be born like all things, to live as if possessions do not matter, to act without reliance, to be skilled without asking for position, this is the mystical virtue.</td>
   </tr>
 </table>
 
