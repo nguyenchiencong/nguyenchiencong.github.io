@@ -217,13 +217,13 @@ C.
     <td><ch>專氣致柔，能嬰兒乎？</ch> <br> Channeling energy to the point of gentleness, can one be like a child?</td>
   </tr>
   <tr>
-    <td><ch>滌除玄覽，能無疵乎？</ch> <br> Sweeping away the darkness, can one avoid mistakes?</td>
+    <td><ch>滌除玄覽，能無疵乎？</ch> <br> Sweeping away the dark view, can one avoid mistakes?</td>
   </tr>
   <tr>
     <td><ch>愛民治國，能無知乎？</ch> <br> Loving the people and governing the nation, can it be done without any doing?</td>
   </tr>  
   <tr>
-    <td><ch>天門開闔，能為雌乎？</ch> <br> The gate of heaven opens and closes, can one become soft and yielding?/td>
+    <td><ch>天門開闔，能為雌乎？</ch> <br> The gate of heaven opens and closes, can one become soft and yielding?</td>
   </tr>  
   <tr>
     <td><ch>明白四達，能無知乎？</ch> <br> Understand everything clearly, can it be without knowledge?</td>
