@@ -223,7 +223,7 @@ C.
     <td><ch>愛民治國，能無知乎？</ch> <br> Loving the people and governing the nation, can it be done without any doing?</td>
   </tr>  
   <tr>
-    <td><ch>天門開闔，能為雌乎？</ch> <br> The gate of heaven opens and closes, can it do so without being delicate?</td>
+    <td><ch>天門開闔，能為雌乎？</ch> <br> The gate of heaven opens and closes, can one become soft and yielding?/td>
   </tr>  
   <tr>
     <td><ch>明白四達，能無知乎？</ch> <br> Understand everything clearly, can it be without knowledge?</td>
