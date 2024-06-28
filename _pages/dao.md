@@ -220,7 +220,7 @@ C.
     <td><ch>滌除玄覽，能無疵乎？</ch> <br> Sweeping away the dark view, can one avoid mistakes?</td>
   </tr>
   <tr>
-    <td><ch>愛民治國，能無知乎？</ch> <br> Loving the people and governing the nation, can it be done without any doing?</td>
+    <td><ch>愛民治國，能無為乎？</ch> <br> Loving the people and governing the nation, can it be done without any doing?</td>
   </tr>  
   <tr>
     <td><ch>天門開闔，能為雌乎？</ch> <br> The gate of heaven opens and closes, can one become soft and yielding?</td>
