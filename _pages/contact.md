@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-[nguyen.chiencong@gmail.com](mailto:nguyen.chiencong@gmail.com).
+I do not wish to receive any email at the moment.
