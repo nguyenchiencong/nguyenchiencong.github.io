@@ -35,7 +35,7 @@ Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gath
 We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript, playing with Godot and implementing game design.
 
 We are setting up our - c本y crew - office, which is also our home for now, with around 100+ plants/trees.
-A friend generously proposed to help us financially to upgrade a few PCs and buy some tablets for drawing.
+Now, we need to buy a few PCs and some tablets for drawing.
 We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
 Artificial Intelligence right now is kind of cool: it helps us code, draw, make voice-overs, and everything faster.
