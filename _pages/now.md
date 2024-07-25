@@ -33,7 +33,7 @@ We are setting up our - c本y crew - office, which is also our home for now, wit
 Now, we need to buy a few PCs and some tablets for drawing.
 We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
-We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. Claude is a big help.
+We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. [Claude.ai](https://claude.ai) has been a big help.
 
 Pink Dawn is learning to code in Python with Claude. She'll be able to help me with the coding.
 
@@ -56,6 +56,8 @@ Things that I like:
 [Music](/music)
 
 [Paintings](/paintings)
+
+Things that I use:
 
 [Artificial Intelligence](/ai)
 
