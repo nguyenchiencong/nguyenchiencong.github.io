@@ -37,7 +37,7 @@ We are building all the plans and stuff with Trello. I have a lot of fun coding 
 
 Pink Dawn is learning to code in Python with Claude. She'll be able to help me with the coding.
 
-Jane will be drawing as soon as we acquire the tablets. Now, she's just playing a game called Omori.
+Jane will be drawing as soon as we acquire the tablets. Now, she's playing a game called Omori.
 
 The game right now has a workable backbone: a turn-based combat system, menus system, scene management, items, spells, skills, etc.
 The plot, mechanics and characters are somewhat worked out. There will be 30+ chapters. Each relating to an aspect of life.
