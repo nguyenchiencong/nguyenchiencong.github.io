@@ -57,6 +57,9 @@ Things that I like:
 
 [Paintings](/paintings)
 
+<br>
+<br>
+
 Things that I use:
 
 [Artificial Intelligence](/ai)
