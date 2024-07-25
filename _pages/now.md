@@ -34,9 +34,9 @@ We are setting up our - c本y crew - office, which is also our home for now, wit
 Now, we need to buy a few PCs and some tablets for drawing.
 We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
-Pink Dawn is leaning to code in Python with Claude. She'll be able to help me with the coding.
+Pink Dawn is learning to code in Python with Claude. She'll be able to help me with the coding.
 
-The game right now has a workable skeleton: a turn-based combat system, menu systems, scene managements, etc.
+The game right now has a workable backbone: a turn-based combat system, menu systems, scene managements, items, spells, skills, etc.
 The plot, mechanics and characters are somewhat worked out. There will be 30+ chapters. Each relating to an aspect of life.
 We are sharpening every little detail by the day.
 
