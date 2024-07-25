@@ -9,7 +9,7 @@ permalink: /now
 ### Learning chinese
 
 I really like the way the Chinese language works.
-Each day I learn a few words with [Hanzi.live](https://hanzi.live), a web app deployed that I've built for my language learning process.  
+Each day I learn a few words with [Hanzi.live](https://hanzi.live), a web app that I've built for my language learning process.  
 
 I will keep improving the current features without adding new ones from now on. It is intended to be used to access the knowledge tree of the language. I've condensed the grammar of the language into various types of sentences and words. It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
 
