@@ -28,15 +28,18 @@ And we are the - c本y crew - (pronounced K crew).
 The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese and pronounced like "K" in Vietnamese, while "[本](https://hanzi.live/hanzi/本)" means "root" and looks like "Â".
 
 Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gather the funds beginning of 2025 to be able to do the work sustainably.
-We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript, playing with Godot and implementing game design.
 
 We are setting up our - c本y crew - office, which is also our home for now, with around 100+ plants/trees.
 Now, we need to buy a few PCs and some tablets for drawing.
 We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
+We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. Claude is a big help.
+
 Pink Dawn is learning to code in Python with Claude. She'll be able to help me with the coding.
 
-The game right now has a workable backbone: a turn-based combat system, menu systems, scene managements, items, spells, skills, etc.
+Jane will be drawing as soon as we acquire the tablets. Now, she's just playing a game called Omori.
+
+The game right now has a workable backbone: a turn-based combat system, menus system, scene management, items, spells, skills, etc.
 The plot, mechanics and characters are somewhat worked out. There will be 30+ chapters. Each relating to an aspect of life.
 We are sharpening every little detail by the day.
 
