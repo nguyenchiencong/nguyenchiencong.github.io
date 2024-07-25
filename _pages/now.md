@@ -4,20 +4,16 @@ title: Now
 permalink: /now
 ---
 
-21 june 2024,
+25 july 2024,
 
 ### Learning chinese
 
-I like the way the Chinese language works so I've built a web app deployed at [Hanzi.live](https://hanzi.live). I will keep improving the current features without adding new ones from now on.  
-It is intended to be used to access the knowledge tree of the language. I've condensed the grammar of the language into various types of sentences and words. It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
+I really like the way the Chinese language works.
+Each day I learn a few words with [Hanzi.live](https://hanzi.live), a web app deployed that I've built for my language learning process.  
+
+I will keep improving the current features without adding new ones from now on. It is intended to be used to access the knowledge tree of the language. I've condensed the grammar of the language into various types of sentences and words. It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
 
 I've finished translating the Tao Te Ching in both [Vietnamese](https://hanzi.live/practice/tao_te_ching) and [English](/dao).
-
-### Plants nursery
-
-Our plants nursery/shop Lapinou is now closed. The whole thing was fun. I've come to appreciate our friends, the trees (木) more.
-We have moved our remaining plants to our new small flat. It's a noisy area, but it has a West-directed view, which is perfect for watching sunset every day. 
-Our cat will still be able to use his indoor litter box and his two cardboard properties and our [dog](/files/painting_dog.jpg) will still have to bear the hostility of city dwellers.
 
 ### Making music
 
@@ -25,7 +21,7 @@ I have to make a temporary halt to the process of composing a piano concerto and
 
 ### Making a game
 
-The name of the game will be - Wisdom of the Trees - (樹木的智慧 in Chinese, and 樹木の智慧 in Japanese).
+The name of the game is: Wisdom of the Trees - (樹木的智慧 in Chinese, and 樹木の智慧 in Japanese).
 
 And we are the - c本y crew - (pronounced K crew).
 
@@ -38,12 +34,11 @@ We are setting up our - c本y crew - office, which is also our home for now, wit
 Now, we need to buy a few PCs and some tablets for drawing.
 We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
 
-Artificial Intelligence right now is kind of cool: it helps us code, draw, make voice-overs, and everything faster.
-Knowledge is cheap nowadays, and AI is an extension of mankind. Simply put, it's just an optimisation algorithm using gradient descent to minimize errors, applied on a gigantic base of inputs, with enormous computing power. Funnily, it is something quite efficient, that which knows all the stuff yet so clueless about the thing behind the word, all the intricacies of life. Like man, as he is right now after all. Who is more intelligent than whom? That might be a silly question. Rather, shouldn't one ask what is intelligence first? In Chinese, intelligence means [慧](https://hanzi.live/hanzi/慧), composed of 彗 (comet) and 心 (heart); it can be interpreted as light from the heart. And 智慧 (wisdom) literally means intelligence of the mind (active) or the intelligent mind (passive); it has the word 慧 in it. Shouldn't the heart and the mind be one?
+Pink Dawn is leaning to code in Python with Claude. She'll be able to help me with the coding.
 
-So, if one sees intelligence as something from the heart, not just as an ability to use experience and knowledge efficiently, then Artificial Intelligence is still artificial, just a mere cultivated intelligence, with no passion, no love. It is a powerful tool though. And, in that same line of thought, as long as man doesn't radically change, society will not change, and AI will always be biased.
-
-Fun right?
+The game right now has a workable skeleton: a turn-based combat system, menu systems, scene managements, etc.
+The plot, mechanics and characters are somewhat worked out. There will be 30+ chapters. Each relating to an aspect of life.
+We are sharpening every little detail by the day.
 
 <br>
 <hr>
@@ -58,6 +53,8 @@ Things that I like:
 [Music](/music)
 
 [Paintings](/paintings)
+
+[Artificial Intelligence](/ai)
 
 <br>
 <br>
