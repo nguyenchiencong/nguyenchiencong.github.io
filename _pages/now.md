@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-25 july 2024,
+17 august 2024,
 
 ### Learning chinese
 
@@ -13,7 +13,7 @@ Each day I learn a few words with [Hanzi.live](https://hanzi.live), a web app th
 
 I will keep improving the current features without adding new ones from now on. It is intended to be used to access the knowledge tree of the language. I've condensed the grammar of the language into various types of sentences and words. It's in Vietnamese though. It will stay free and ad-free as long as it exists. Probably, I will open-source it someday.
 
-I've finished translating the Tao Te Ching in both [Vietnamese](https://hanzi.live/practice/tao_te_ching) and [English](/dao).
+I've translated the Tao Te Ching in both [Vietnamese](https://hanzi.live/practice/tao_te_ching) and [English](/dao). I'm quite happy with it.
 
 ### Making music
 
@@ -29,15 +29,13 @@ The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese
 
 Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gather the funds beginning of 2025 to be able to do the work sustainably.
 
-We are setting up our - c本y crew - office, which is also our home for now, with around 100+ plants/trees.
-Now, we need to buy a few PCs and some tablets for drawing.
-We'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
+Our - c本y crew - office is set up; it is also our home, with around 100+ plants/trees.
 
 We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. [Claude.ai](https://claude.ai) has been a big help.
 
 Pink Dawn is learning to code in Python with Claude. She'll be able to help me with the coding.
 
-Jane will be drawing as soon as we acquire the tablets. Now, she's playing a game called Omori.
+Jane will be drawing soon.
 
 The game right now has a workable backbone: a turn-based combat system, menus system, scene management, items, spells, skills, etc.
 The plot, mechanics and characters are somewhat worked out. There will be 30+ chapters. Each relating to an aspect of life.

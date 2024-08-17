@@ -18,8 +18,4 @@ And we are the - c本y crew - (pronounced K crew).
 
 The word "cây" means "tree" or "木" in Chinese and pronounced like "K" in Vietnamese, while "本" means "root" and looks like "Â".
 
-Don’t know exactly how yet, but we plan to make a Kickstarter campaign to gather the funds beginning of 2025 to be able to do the work sustainably.
 We are building all the plans and stuff with Trello. I had a lot of fun coding with Gdscript, playing with Godot and implementing game design.
-
-We need to upgrade a few PCs and buy some tablets for drawing, kind of expensive after all.
-Guess, we'll upgrade everything progressively and just powerful enough so we can run StableDiffusion.
