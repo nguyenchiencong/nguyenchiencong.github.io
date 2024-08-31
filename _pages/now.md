@@ -37,7 +37,7 @@ Jane is learning to draw in pixel art and make character animation with Aseprite
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
-We are enjoying the process so much, and it's been a pleasure doing things together. I have a bit of trouble sleeping lately, but it'll be okay soon. Even the potential financial return doesn't seem to really matter, though we are pretty sure it will be a success when the game will be out. Our aim is to make the best RPG [game](/game), which is also the best philosophical book, meaning it has to be educational. And this kind of education is not based on discipline, meaning people are not made to conform.  
+We are enjoying the process so much, and it's been a pleasure doing things together. I have a bit of trouble sleeping lately, but it'll be okay soon. Even the potential financial return doesn't seem to really matter, though we are pretty sure it will be a success when the game will be out. Our aim is to make the best RPG [game](/game), which is also the best philosophical book, meaning it has to be beautiful, engaging and educational. And this kind of education is not based on discipline, meaning people are not made to conform.  
 
 Anyway, we are sharpening every little detail by the day.
 
