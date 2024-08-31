@@ -33,7 +33,7 @@ We are building all the plans and stuff with Trello. I have a lot of fun coding 
 
 Pink Dawn is learning to code in Python with Claude. She'll be able to help me with the coding in no time.
 
-Jane will is learning to draw in pixel art and make character animation with Aseprite, and also other assets and architectural design.
+Jane is learning to draw in pixel art and make character animation with Aseprite, and also other assets and architectural design.
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
