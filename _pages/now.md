@@ -6,6 +6,8 @@ permalink: /now
 
 11 september 2024,
 
+Recently, a typhoon named Yagi passed through the region we're in. It’s one of the biggest in a long time and has been devastating, with extremely strong winds, flooding, landslides, and more. It’s not fun for everyone, but it’s quite impressive to witness such a force of nature.
+
 ### Learning chinese
 
 I really like the way the Chinese language works.
