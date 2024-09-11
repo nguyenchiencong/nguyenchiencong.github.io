@@ -17,7 +17,7 @@ I've translated the Tao Te Ching in both [Vietnamese](https://hanzi.live/practic
 
 ### Making music
 
-I have to make a temporary halt to the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income for the long term, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all. I've given my digital piano to a friend a few months ago, and now we're saving up for another one. So, once purchased, alongside playing for fun, I'll be making game music and maybe composing a piano sonata.
+Since March 2024, I’ve had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income for the long term, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all. I've given my digital piano to a friend a few months ago, and now we're saving up for another one. So, once purchased, alongside playing for fun, I'll be making game music and maybe composing a piano sonata.
 
 ### Making a game
 
