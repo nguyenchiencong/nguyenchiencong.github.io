@@ -7,7 +7,7 @@ permalink: /vi
 ---
 Có bao giờ người ta tự hỏi cuộc sống là gì không? Đối với hầu hết mọi người, nếu không nói là tất cả, cuộc sống dường như là một cuộc đấu tranh không ngừng. Người ta sinh ra, theo một nền giáo dục nhất định, lớn lên trở thành một thành viên của xã hội, vật lộn với đủ mọi nỗ lực, rồi có thể già đi và chết. Bất chấp tất cả những điều này, liệu người ta có hiểu được chính mình không? Tại sao lại có sự bất mãn sâu sắc với sự tồn tại của chính mình? Tại sao cuộc sống lại có vẻ vô lý như vậy?
 
-Cuốn sách -- <strong>Sự thông thái của một hạt cát</strong> -- là một cuộc điều tra triết học về bản chất của cái tôi. Như một cái gương cho suy nghĩ, nó dẫn dắt người đọc qua những câu hỏi hiện sinh khác nhau mà người ta nên hỏi nếu thực sự nghiêm túc với cuộc sống của mình. Nó bắt đầu như một cuộc tìm hiểu hiện sinh của tâm trí về suy nghĩ và cái tôi, sau đó nó hướng đến khám phá cuộc sống, và có lẽ trên đường đi, để hiểu rốt cuộc lòng tốt là gì.
+Cuốn sách -- <strong>Sự thông thái của một hạt cát</strong> (2023) -- là một cuộc điều tra triết học về bản chất của cái tôi. Như một cái gương cho suy nghĩ, nó dẫn dắt người đọc qua những câu hỏi hiện sinh khác nhau mà người ta nên hỏi nếu thực sự nghiêm túc với cuộc sống của mình. Nó bắt đầu như một cuộc tìm hiểu hiện sinh của tâm trí về suy nghĩ và cái tôi, sau đó nó hướng đến khám phá cuộc sống, và có lẽ trên đường đi, để hiểu rốt cuộc lòng tốt là gì.
 
 <div class="bx">
   <div class="bx-lf">
