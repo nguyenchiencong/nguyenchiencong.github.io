@@ -6,7 +6,7 @@ permalink: /now
 
 7 november 2024,
 
-[Nahu](/files/painting_dog.jpg) recently got infected with a tick-borne disease caused by the bacteria Ehrlichia Canis. Clinical signs include fever, bleeding disorders, lethargy, inappetence, lameness, discharge from the nose and eyes. Blood tests show abnormalities in the numbers of red blood cells, white blood cells, and most commonly platelets. He is now on a 4-week antibiotics treatment using Doxycycline and the medication seems to work well with this strain. 
+[Nahu](/files/painting_dog.jpg) recently got infected with a tick-borne disease caused by the bacteria Ehrlichia Canis. Clinical signs include fever, bleeding disorders, lethargy, inappetence, lameness, and discharge from the nose and eyes. Blood tests show abnormalities in the numbers of red blood cells, white blood cells, and most commonly platelets. He is now on a 4-week antibiotic treatment using Doxycycline and the medication seems to work well with this strain.  
 
 ### Learning chinese
 
