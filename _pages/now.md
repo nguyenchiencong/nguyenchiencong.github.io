@@ -19,9 +19,9 @@ I've translated the Tao Te Ching in both [Vietnamese](https://hanzi.live/practic
 
 ### Making music
 
-Since March 2024, I’ve had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income for the long term, and mostly because it’s fun, and doing things together is even more fun. And, a game needs music too after all.
+Since March 2024, I've had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income for the long term, and mostly because it's fun, and doing things together is even more fun. And, a game needs music too after all.
 
-After giving my Roland piano in March, we recently bought a new digital piano (Korg LP-380). The sound is quite good for a quite low price. Now, we can play and maybe compose some music for the game.
+We recently bought a new digital piano (Korg LP-380). The sound is quite good for a quite low price. Now, we can play and maybe compose some music for the game.
 
 ### Making a game
 
@@ -35,11 +35,11 @@ Our - c本y crew - office is set up; it is also our home, with around 100+ plant
 
 We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. [Claude.ai](https://claude.ai) has been a big help. 
 
-Pink Dawn is teaching herself Python with help from Claude and me. She’s now making small games like snake or the game of life to test her newly acquired skills. She’ll be able to help me with coding in no time.
+Pink Dawn is teaching herself Python with help from Claude and me. She's now making small games like snake or the game of life to test her newly acquired skills. She'll be able to help me with coding in no time.
 
 Jane is learning to draw pixel and to create character animations with Krita and Aseprite, and design other assets and architectural elements. 
 
-We recently had a 2-3 week rest. Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game.  
+We recently had a 2-3 week rest. Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game.  
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
