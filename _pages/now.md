@@ -21,7 +21,7 @@ I've translated the Tao Te Ching in both [Vietnamese](https://hanzi.live/practic
 
 Since March 2024, I've had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income for the long term, and mostly because it's fun, and doing things together is even more fun. And, a game needs music too after all.
 
-We recently bought a new digital piano (Korg LP-380). The sound is quite good for a quite low price. Now, we can play and maybe compose some music for the game.
+Since giving away my Roland piano in March, I've stopped playing for a while. We recently bought a new digital piano (Korg LP-380). The sound is quite good for a quite low price. Now, we can play and maybe compose some music for the game.
 
 ### Making a game
 
