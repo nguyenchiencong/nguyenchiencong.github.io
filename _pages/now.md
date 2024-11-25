@@ -4,9 +4,10 @@ title: Now
 permalink: /now
 ---
 
-7 november 2024,
+25 november 2024,
 
-[Nahu](/files/painting_dog.jpg) recently got infected with a tick-borne disease caused by the bacteria Ehrlichia Canis. Clinical signs include fever, bleeding disorders, lethargy, inappetence, lameness, and discharge from the nose and eyes. Blood tests show abnormalities in the numbers of red blood cells, white blood cells, and most commonly platelets. He is now on a 4-week antibiotic treatment using Doxycycline and the medication seems to work well with this strain. We have to learn a few things to be able to diagnose and treat our pet friends. Where we are located, blind trust in vets is a recipe for disaster, especially if their true goal is to make money.  
+Nahu's recovered wonderfully from Ehrlichiosis.  
+We've recently welcomed a new member to our home: Mangostine (Măng Cụt) - ridgeback Phu Quoc dog. It's a joy to have Nahu and Mangostine to be around, in and under the desk.  
 
 ### Learning chinese
 
@@ -19,19 +20,19 @@ I've translated the Tao Te Ching in both [Vietnamese](https://hanzi.live/practic
 
 ### Making music
 
-Since March 2024, I've had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot to earn a living income for the long term, and mostly because it's fun, and doing things together is even more fun. And, a game needs music too after all.
+Since March 2024, I've had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot, and mostly because it's fun, and doing things together is even more fun. And, a game needs music too after all.
 
 Since giving away my Roland piano in March, I've stopped playing for a while. We recently bought a new digital piano (Korg LP-380). The sound is quite good for a quite low price. Now, we can play and maybe compose some music for the game.
 
 ### Making a game
 
-The name of the game is: Wisdom of the Trees - (樹木的智慧 in Chinese, and 樹木の智慧 in Japanese).
+The name of the game is: The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の知恵のささやき in Japanese).
 
 And we are the - c本y crew - (pronounced K crew).
 
 The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese and pronounced like "K" in Vietnamese, while "[本](https://hanzi.live/hanzi/本)" means "root" and looks like "Â".
 
-Our - c本y crew - office is set up; it is also our home, with around 100+ plants/trees.
+Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gears are set up: pcs, drawing tablets, digital piano, etc.
 
 We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. [Claude.ai](https://claude.ai) has been a big help. 
 
@@ -39,7 +40,7 @@ Pink Dawn is teaching herself Python with help from Claude and me. She's now mak
 
 Jane is learning to draw pixel and to create character animations with Krita and Aseprite, and design other assets and architectural elements. 
 
-We recently had a 2-3 week rest. Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game.  
+We recently had a 2-3 week rest. Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game. I'll be experimenting with local llms and stable diffusion for the next few weeks.  
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
