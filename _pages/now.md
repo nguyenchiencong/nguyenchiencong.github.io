@@ -4,9 +4,8 @@ title: Now
 permalink: /now
 ---
 
-25 november 2024,
+1 december 2024,
 
-Nahu's recovered wonderfully from Ehrlichiosis.  
 We've recently welcomed a new member to our home: Mangostine (Măng Cụt) - ridgeback Phu Quoc dog. It's a joy to have Nahu and Mangostine to be around, in and under the desk.  
 
 ### Learning chinese
@@ -32,15 +31,19 @@ And we are the - c本y crew - (pronounced K crew).
 
 The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese and pronounced like "K" in Vietnamese, while "[本](https://hanzi.live/hanzi/本)" means "root" and looks like "Â".
 
-Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gears are set up: pcs, drawing tablets, digital piano, etc.
+Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gears are set up: beefy pcs, drawing tablets, digital piano, etc.
 
 We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. [Claude.ai](https://claude.ai) has been a big help. 
 
-Pink Dawn is teaching herself Python with help from Claude and me. She's now making small games like snake or the game of life to test her newly acquired skills. She'll be able to help me with coding in no time.
+F, a friend since childhood, has recently joined the team. She worked as an architect until now; her latest project was a museum in Da Nang, which is to be opened soon. Now she will be drawing architectural designs, characters, and sceneries of the game.
+
+Pink Dawn is teaching herself Python with help from Claude and me. She'll be able to help me with coding in no time.
 
 Jane is learning to draw pixel and to create character animations with Krita and Aseprite, and design other assets and architectural elements. 
 
-We recently had a 2-3 week rest. Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game. I'll be experimenting with local llms and stable diffusion for the next few weeks.  
+Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game.  
+
+I'm also experimenting with local llms (large language models) for the next few weeks. I've played mostly with Ollama, Qwen2.5, and Open WebUI as the interface. It's quite cool to be able to run a large language model on your own machine. Besides, I'm implementing Stable Diffusion with A1111 and ComfyUI.
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
