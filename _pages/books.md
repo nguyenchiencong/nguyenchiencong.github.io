@@ -20,7 +20,7 @@ Here are a few books that I liked:
 <br>
 
 The ending of time - J. Krishnamurti, David Bohm
-> A great dialogue between two beautiful minds: J. Krishnamurti and David Bohm.
+> A great dialogue between two beautiful minds.
 <br>
 <br>
 
@@ -47,11 +47,6 @@ Siddhartha - Hermann Hesse
 
 Le petit prince - Antoine de Saint-Exupéry
 > It has everything in it. Innocence, adventure, curiosity, imagination, compassion, etc.
-<br>
-<br>
-
-Pale blue dot - Carl Sagan
-> We are such a small thing on this big universe. Are all the quarrels on Earth worth it?
 <br>
 <br>
 

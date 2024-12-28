@@ -55,7 +55,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。</ch> <br> When everyone in the world knows that beautiful is beautiful, then ugly already exists. When everyone knows that good is good, then goodness ceases to be good.</td>
+    <td><ch>天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。</ch> <br> When everyone in the world knows that beautiful is beautiful, then ugliness already exists. When everyone knows that good is good, then goodness ceases to be good.</td>
   </tr>
   <tr>
     <td><ch>故有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。</ch> <br> Therefore, being and non-being create each other, difficult and easy complement each other, long and short shape each other, high and low lean on each other, sound and tone harmonize with each other, before and after follow each other.</td>
