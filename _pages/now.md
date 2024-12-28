@@ -43,7 +43,7 @@ Jane is learning to draw pixel and to create character animations with Krita and
 
 Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game.  
 
-I'm experimenting with local llms (large language models). I've played mostly with Ollama, Qwen2.5, and Open WebUI as the interface. I've set up a few tuned llms for my process of writing the story for the game. It's quite cool to be able to run a large language model on your own machine. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, for image generation. Starting February 2025, things will move pretty fast with the help of our LLM and LDM AI-assistants, once they're fully set up for our workflows.
+I'm experimenting with local llms (large language models). I've played mostly with Ollama, Qwen2.5, Mistral and Gemma2, and Open WebUI as the interface. I've set up a few tuned llms for my process of writing the story for the game. It's quite cool to be able to run a large language model on your own machine, even without internet. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, for image generation. Starting February 2025, things will move pretty fast with the help of our LLM and LDM AI-assistants, once they're fully set up for our workflows.
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
