@@ -25,7 +25,7 @@ Since March 2024, I've had to temporarily halt the process of composing a piano 
 
 ### Making a game
 
-The name of the game is: The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の知恵のささやき in Japanese).
+The name of the game is: The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 木々の賢明なささやき in Japanese).
 
 And we are the - c本y crew - (pronounced K crew).
 

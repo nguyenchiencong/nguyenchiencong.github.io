@@ -12,7 +12,7 @@ So a game is a much more engaging way to touch base with one's own consciousness
 
 With Jane and Pink Dawn, we've decided to make a RPG game in 2D with Godot.  
 
-The name of the game will be - The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の知恵のささやき in Japanese).  
+The name of the game will be - The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 木々の賢明なささやき in Japanese).  
 
 And we are the - c本y crew - (pronounced K crew).  
 
