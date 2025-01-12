@@ -4,11 +4,11 @@ title: Now
 permalink: /now
 ---
 
-28 december 2024,
+12 january 2025,
 
 
 
-We've welcomed a new member to our home in November 2024: Mangostine (Măng Cụt) - a ridgeback Phu Quoc dog. He's growing so fast.  
+We've welcomed a new member to our home in November 2024: [Mangostine](/files/mangostine.JPG) (Măng Cụt) - a ridgeback Phu Quoc dog. He's growing so fast.  
 
 ### Learning chinese
 
