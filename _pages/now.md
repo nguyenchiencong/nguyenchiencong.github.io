@@ -25,13 +25,15 @@ Since March 2024, I've had to temporarily halt the process of composing a piano 
 
 ### Making a video game
 
-Details on the game [here](/game).
+Details on the game [here](/game).  
+
+Starting February 2025, after the lunar new year, things will move pretty fast with the help of our LLM and LDM AI-assistants, once they're fully set up for our workflows.
 
 ### Playing with Local AI
 
 I'm experimenting with local llms (large language models). Some impressive local LLMs: Qwen2.5, Gemma2, Phi4, and recently Deepseek. I use Ollama to get things running and Open WebUI as the interface. It's quite a fascinating time to be experimenting with local LLMs. I've set up a few tuned llms for my process of writing the story for the game. It's quite cool to be able to run a large language model on your own machine, even without internet. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, for image generation. 
 
-Starting February 2025, after the lunar new year, things will move pretty fast with the help of our LLM and LDM AI-assistants, once they're fully set up for our workflows.
+
 
 <br>
 <hr>
