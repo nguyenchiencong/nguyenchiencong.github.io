@@ -34,7 +34,6 @@ Starting February 2025, after the lunar new year, things will move pretty fast w
 I'm experimenting with local llms (large language models). Some impressive local LLMs: Qwen2.5, Gemma2, Phi4, and recently Deepseek. I use Ollama to get things running and Open WebUI as the interface. It's quite a fascinating time to be experimenting with local LLMs. I've set up a few tuned llms for my process of writing the story for the game. It's quite cool to be able to run a large language model on your own machine, even without internet. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, for image generation. 
 
 
-
 <br>
 <hr>
 <br>
