@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-12 january 2025,
+24 january 2025,
 
 
 
@@ -33,17 +33,17 @@ The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese
 
 Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gears are set up: beefy pcs, drawing tablets, digital piano, etc.
 
-We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design. [Claude.ai](https://claude.ai) has been a big help. 
+We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design.  
 
 F, a friend since childhood, joined the team at the beginning of December 2024. She worked as an architect until now; her latest project was a museum in Da Nang, which is to be opened soon. Now she will be drawing architectural designs, characters, and sceneries for the game.
 
-Dawn is teaching herself Python with help from Claude and myself. Before she can jump into the project, she needs not only to be autodidactic but also to manage her time and energy more efficiently.
+Dawn is teaching herself Python with help from a few AIs and myself. Before she can jump into the project, she needs not only to be autodidactic but also to manage her time and energy more efficiently.
 
 Jane is learning to draw pixel and to create character animations with Krita and Aseprite, and design other assets and architectural elements. 
 
 Now, I'm working on the game's story, which is equivalent to writing a new book. We are drawing assets and characters for the first chapter of the game.  
 
-I'm experimenting with local llms (large language models). I've played mostly with Ollama, Qwen2.5, Mistral and Gemma2, and Open WebUI as the interface. I've set up a few tuned llms for my process of writing the story for the game. It's quite cool to be able to run a large language model on your own machine, even without internet. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, for image generation. Starting February 2025, things will move pretty fast with the help of our LLM and LDM AI-assistants, once they're fully set up for our workflows.
+I'm experimenting with local llms (large language models). Some impressive local LLMs: Qwen2.5, Gemma2, Phi4, and recently Deepseek. I use Ollama to get things running and Open WebUI as the interface. It's quite a fascinating time to be experimenting with local LLMs. I've set up a few tuned llms for my process of writing the story for the game. It's quite cool to be able to run a large language model on your own machine, even without internet. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, for image generation. Starting February 2025, things will move pretty fast with the help of our LLM and LDM AI-assistants, once they're fully set up for our workflows.
 
 The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
