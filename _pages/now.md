@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-22 february 2025,
+22 march 2025,
 
 
 ### Learning chinese
@@ -25,6 +25,8 @@ Since March 2024, I've had to temporarily halt the process of composing a piano 
 Details on the game [here](/game).  
 
 Things are moving quite fast, from story writing to architectural design to pixel art drawing.
+
+Right now, I'm setting up AI assistants for coding in Godot. I use continue.dev for autocompletion, Roo Code, and Aider for semi-autonomous assisted coding.
 
 <br>
 <hr>

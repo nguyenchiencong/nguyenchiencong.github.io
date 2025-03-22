@@ -24,7 +24,7 @@ We are building all the plans and stuff with Trello. I have a lot of fun coding 
 
 F, a friend since childhood, joined the team at the beginning of December 2024. She worked as an architect until now; her latest project was a museum in Da Nang, which is to be opened soon. Now she will be drawing architectural designs, characters, and sceneries for the game.  
 
-Dawn is teaching herself Python with help from a few AIs and myself.  
+Dawn is teaching herself Python, GDScript, and Godot with help from a few AIs and me. She's now building a small puzzle game.  
 
 Jane is learning to draw pixel and to create character animations with Krita and Aseprite, and design other assets and architectural elements.  
 
