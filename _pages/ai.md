@@ -17,7 +17,7 @@ Knowledge is cheap nowadays, and AI is an extension of mankind. Simply put, it's
 So, if one sees intelligence as something from the heart, not just as an ability to use experience and knowledge efficiently, then Artificial Intelligence is still artificial, just a mere cultivated intelligence, with no passion, no love. It is a powerful tool though. And, in that same line of thought, as long as man doesn't radically change, society will not change, and AI will always be biased.
 
 
-### Playing with Local AI
+### Playing with AI
 
 I've played with local LLMs (large language models). Some impressive local LLMs are Qwen2.5, Gemma3, Mistral-small, Phi4, Deepseek-distill and QwQ models. I used Ollama to get things running and Open WebUI as the interface. It's quite a fascinating time to be experimenting with those things. It's quite cool to be able to run a large language model on your own machine. Besides, I'm tweaking with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, testing image generation.   
 
