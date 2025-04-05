@@ -25,3 +25,7 @@ I like this piece very much:
 
 A recording from 2017: Painter's dream
 <audio src="files/painter_s_dream.mp3" controls></audio>
+
+### Making music
+
+Since March 2024, I've had to temporarily halt the process of composing a piano concerto and a symphony. Instead, with Jane and Dawn, we've decided to make a RPG video game in 2D, and mostly because it's fun, and doing things together is even more fun. And, a game needs music too after all.
