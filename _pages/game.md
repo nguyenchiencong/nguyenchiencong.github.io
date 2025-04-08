@@ -12,7 +12,7 @@ So a game is a much more engaging way to touch base with one's own consciousness
 
 Jane and I, along with Dawn, have decided to create an RPG game in 2D using Godot. F joined the crew in December 2024.  
 
-The name of the game is: The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の智慧のささやき in Japanese).
+The name of the game is: The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の知恵の低語 in Japanese).
 
 And we are the - c本y crew - (pronounced K crew).
 
