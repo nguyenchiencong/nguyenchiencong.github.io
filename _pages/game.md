@@ -8,11 +8,11 @@ I think a game is a great way to write a book in our days. For the traditional b
 
 So a game is a much more engaging way to touch base with one's own consciousness. Fortunately, our time allows us to do so. I can't speak for the future, but in the past centuries, people couldn't make books as video games. I can't say if this will radically change things. Let's see.
 
-### Making a game: The wise whispers of the trees
+### Making a game: Wise whispers of the trees
 
 Jane and I, along with Dawn, have decided to create an RPG game in 2D using Godot. F joined the crew in December 2024.  
 
-The name of the game is: The wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の知恵の低語 in Japanese).
+The name of the game is: Wise whispers of the trees - (樹木的智慧低語 in Chinese, and 樹木の知恵の低語 in Japanese).
 
 And we are the - c本y crew - (pronounced K crew).
 
@@ -20,13 +20,13 @@ The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese
 
 Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gears are set up: beefy pcs, drawing tablets, digital piano, etc.
 
-We are building all the plans and stuff with Trello. I have a lot of fun coding with Gdscript, playing with Godot and implementing game design.  
+I have a lot of fun coding with Gdscript and Godot, playing with shaders and implementing game design.  
 
 F, a friend since childhood, joined the team at the beginning of December 2024. She worked as an architect until now; her latest project was a museum in Da Nang, which is to be opened soon. Now she will be drawing architectural designs, characters, and sceneries for the game.  
 
-Dawn is teaching herself Python, GDScript, and Godot with help from a few AIs and me. She's now building a small puzzle game.  
+Dawn is teaching herself Python, GDScript, and Godot with help from a few AIs and me. She's self-learning by building a small game.  
 
-Jane is learning to draw pixel and to create character animations with Krita and Aseprite, and design other assets and architectural elements.  
+Jane is learning to draw pixel and to create scenery objects with Krita and Aseprite, and design other assets and architectural elements.  
 
 Now, I'm working on the game's story, which is equivalent to writing a new book. 
 
