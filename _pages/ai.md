@@ -19,6 +19,6 @@ So, if one sees intelligence as something from the heart, not just as an ability
 
 ### Playing with AI
 
-I've played with local LLMs (large language models). Some impressive local LLMs are Qwen3, GLM4, Gemma3, Mistral-small, Phi4 and QwQ models. I used Ollama to get things running and Open WebUI as the interface. It's quite a fascinating time to be experimenting with those things. It's quite cool to be able to run a large language model on your own machine. Besides, I've experimented with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, testing image generation.   
+I've played with local LLMs (large language models). Some impressive local LLMs are Qwen3, GLM4, Gemma3, Mistral-small, Phi4 and QwQ models. I use Ollama to get things running and Open WebUI as the interface. It's quite a fascinating time to be experimenting with those things. It's quite cool to be able to run a large language model on your own machine. Besides, I've experimented with the Latent Diffusion Model (Stable Diffusion, Flux) using the interface of ComfyUI, testing image generation.   
 
-I've set up AI assistants for coding in Vscode. I used continue.dev for assistance in writing, RooCode and Aider for semi-autonomous assisted coding, alternating between Gemini and Deepseek models.
+I've set up AI assistants for coding in Vscode. I use continue.dev for assistance in writing, RooCode and Aider for semi-autonomous assisted coding, alternating between Gemini and Deepseek models.
