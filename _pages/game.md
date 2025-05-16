@@ -20,7 +20,7 @@ The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese
 
 Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gears are set up: beefy pcs, drawing tablets, digital piano, etc.
 
-F, a friend since childhood, joined the team at the beginning of December 2024. She worked as an architect until now; her latest project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
+F, a friend since childhood worked as an architect until now; her latest project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
 
 Dawn has taught herself Python, GDScript, and Godot with help from a few AIs. She's now discovering the project codebase and soon will be handling the lighting of the scenes in the game.  
 
