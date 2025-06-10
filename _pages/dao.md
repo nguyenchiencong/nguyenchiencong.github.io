@@ -1028,7 +1028,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>治大國若烹小鮮。</ch> <br>To govern a large nation is like cooking a fresh fish.</td>
+    <td><ch>治大國若烹小鮮。</ch> <br>To govern a large nation is like cooking fresh small fishes.</td>
   </tr>
   <tr>
     <td><ch>以道蒞天下，其鬼不神。非其鬼不神，其神不傷人。非其神不傷人，聖人亦不傷人。夫兩不相傷，故德交歸焉。</ch> <br> Using the Dao to govern the world, even demons are not supernaturally powerful. Not only are demons not supernaturally powerful, but gods do not harm people. Not only do gods not harm people, but sages as well. Both do not harm each other, so virtue returns to that place.</td>
