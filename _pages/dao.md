@@ -845,7 +845,7 @@ C.
 
 <table>
   <tr>
-    <td><ch>為學日益，為道日損。損之又損，以至於無為。</ch> <br> Following studying, one learns a little more each day, and following the Dao, a little less each day. Less and less until one reaches non-doing.</td>
+    <td><ch>為學日益，為道日損。損之又損，以至於無為。</ch> <br> By studying, one learns a little more each day, and following the Dao, a little less each day. Less and less until one reaches non-doing.</td>
   </tr>
   <tr>
     <td><ch>無為而無不為。取天下常以無事，及其有事，不足以取天下。</ch> <br> Not doing yet nothing can't be done. Always gain the world without any incident. Taking the world forcefully is not enough to have the world.</td>
