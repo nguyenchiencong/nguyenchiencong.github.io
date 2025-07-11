@@ -4,13 +4,15 @@ title: Now
 permalink: /now
 ---
 
-16 may 2025,
+11 july 2025,
 
 ### Making a video game
 
 Details on the game [here](/game).  
 
-Things are moving quite fast, from story writing to architectural design to pixel art drawing to programming.
+Things are moving quite fast, from story writing to architectural design to pixel art drawing to programming.  
+We need to pay a bit more attention to our health as well.  
+I will update if there's something relevant to share.
 
 <br>
 <hr>
