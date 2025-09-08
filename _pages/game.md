@@ -22,12 +22,12 @@ Our - c本y crew - office is set up; it is also our home, with around 100+ plant
 
 F, a friend since childhood, worked as an architect until now; her latest project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
 
-Dawn has taught herself Python, GDScript, and Godot with help from a few AIs. She's now discovering the project codebase and soon will be handling the lighting of the scenes in the game.  
+Dawn has taught herself Python, GDScript, and Godot with help from a few AIs. Now, she's learning about shaders.  
 
-Jane is drawing the sceneries and objects with Krita and Aseprite, and designing other assets.  
+Jane is drawing beautiful trees with Krita and Aseprite, and designing other assets.  
 
 Now, I'm working on refining the assets for the first few chapters. I have a lot of fun playing with shaders to make the game more lively.   
-I still have to work on the game's story, which is equivalent to writing a new book.  
+I will resume writing the next few chapters in a few weeks.  
 
 We are drawing assets and characters for the first chapters of the game.  
 

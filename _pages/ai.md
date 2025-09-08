@@ -21,4 +21,4 @@ So, if one sees intelligence as something from the heart, not just as an ability
 
 Since 2024, I've played with local LLMs (large language models). I use Ollama to get things running and Open WebUI as the interface. It's a fascinating time to be experimenting with those things. It's quite cool to be able to run a large language model on your own machine.  
 
-I've set up AI assistants for coding in Vscode. I use continue.dev for assistance in writing, RooCode and Aider for semi-autonomous assisted coding, alternating between Gemini, Qwen3-coder, GLM4.5 and Deepseek models.
+I've set up AI assistants for coding in Vscode. I use continue.dev for assistance in writing, RooCode and Qwen-code for semi-autonomous assisted coding, alternating between Gemini, Qwen3-coder, GLM4.5, Kimi K2 and Deepseek models.
