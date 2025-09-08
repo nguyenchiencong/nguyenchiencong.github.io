@@ -4,13 +4,13 @@ title: Now
 permalink: /now
 ---
 
-9 august 2025,
+8 september 2025,
 
 ### Making a video game
 
 Details on the game [here](/game).  
 
-Things are great. Houses, trees, roads, people got drawn, and new chapters will be written.
+Everything is on its course. Houses, trees, roads, people got drawn, and new chapters will be written.
 
 Things are moving quite fast, from story writing to architectural design to pixel art drawing to programming.  
 Health is all good.  
