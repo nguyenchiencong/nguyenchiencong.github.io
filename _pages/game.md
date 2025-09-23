@@ -18,9 +18,9 @@ And we are the - c本y crew - (pronounced K crew).
 
 The word "cây" means "tree" or "[木](https://hanzi.live/hanzi/木)" in Chinese and is pronounced like "K" in Vietnamese, while "[本](https://hanzi.live/hanzi/本)" means "root" and looks like "Â".
 
-Our - c本y crew - office is set up; it is also our home, with around 100+ plants. Thanks to some friends, all our gear is set up: beefy PCs, drawing tablets, digital piano, etc.
+Our - c本y crew - office is also our home, with around 100+ plants. Thanks to some friends, all our gear is set up: beefy PCs, drawing tablets, digital piano, etc.
 
-F, a friend since childhood, worked as an architect until now; her latest project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
+F, a friend since childhood, worked as an architect until now; her last project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
 
 Dawn has taught herself Python, GDScript, and Godot with help from a few AIs. Now, she's learning about shaders.  
 
