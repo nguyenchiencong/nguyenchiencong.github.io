@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-8 september 2025,
+9 october 2025,
 
 ### Making a video game
 
