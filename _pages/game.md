@@ -4,7 +4,7 @@ title: Game
 permalink: /game
 ---
 
-I think a game is a great way to write a book nowadays. For traditional books with words, I find that many people do not read past a few sentences because they are stuck filtering each sentence with their guards always up. Even if the answer might come a few sentences or paragraphs further, they will stop before reaching that part and judge right away due to short attention spans today. There's no flow, making it difficult to guide someone's thoughts with a book. People just want immediacy and a sense of decision-making to strengthen their feelings.
+I think a game is a great way to write a book nowadays. For traditional books with words, I find that many people do not read past a few sentences because they are stuck filtering each sentence with their guards always up. Even if the answer might come a few sentences or paragraphs further, they will stop before reaching that part and judge right away due to their short attention spans. There's no flow, making it difficult to guide someone's thoughts with a book. People just want immediacy and a sense of decision-making to strengthen their feelings.
 
 So a game is a much more engaging way to touch base with one's own consciousness. Fortunately, our time allows us to do so. I can't speak for the future, but in past centuries, people couldn't make books as video games. I can't say if this will radically change things. Let's see.
 

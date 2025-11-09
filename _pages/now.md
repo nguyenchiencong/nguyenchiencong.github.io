@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-16 october 2025,
+9 november 2025,
 
 ### Making a video game
 
@@ -13,7 +13,15 @@ Details on the game [here](/game).
 Everything is on its course.  
 
 Things are moving quite fast, from story writing to architectural design to pixel art drawing to programming.  
-Health is all good.  
+
+I’ve recently implemented a quasi-autonomous debugging process with Godot-MCP.
+I’ve made it available here if you’re interested: 
+- [godot-mcp](https://github.com/nguyenchiencong/godot-mcp)
+- [local-docs-mcp](https://github.com/nguyenchiencong/local-docs-mcp)
+
+Handling AI models and coding agents feels like collecting and handling pokemons.  
+
+Health is a bit wobbly with the seasonal change and the current local influenza epidemic going on.
 
 I will update if there's something relevant to share.
 
