@@ -22,16 +22,18 @@ Our - c本y crew - office is also our home, with around 100+ plants. Thanks to s
 
 F, a friend since childhood, worked as an architect; her last project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
 
-Dawn has taught herself Python, GDScript, and Godot with help from a few AIs. Now, she's learning about shaders.  
+T, a friend and colleague of F, decided to join the crew in November 2025. He's also an architect, and is learning programming in Python and GDScript.
+
+Dawn has taught herself Python, GDScript, Godot and shaders with help from a few AIs. Now, she's building a remunated project to practice before she can jump in with the Wise Whispers of the Trees.  
 
 Jane is drawing beautiful trees with Krita and Aseprite, and designing other assets.  
 
-Now, I'm working on refining the assets for the first few chapters. I have a lot of fun playing with shaders to make the game more lively.   
-I will resume writing the next few chapters in a few weeks.  
+I've programmed most of the game's codebase and now am working on a mini card game inside our game. Also, I'm working on refining the assets for the first few chapters.  
+I will resume writing the next few chapters beginning of 2026.  
 
-We are drawing assets and characters for the first chapters of the game.  
+We are moving at an incredible pace.  
 
-The game right now has a workable backbone: a turn-based combat system, menu system, bartering system, scene management, items, spells, skills, etc. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
+The game right now has a workable backbone. The plot, mechanics, and characters are somewhat worked out. There will be 30+ chapters, each relating to an aspect of life.  
 
 We are enjoying the process, and it's been a pleasure doing things together. Even the potential financial return doesn't seem to really matter at this point, though I'm certain it will be a success when the game is out. Our aim is to make the best RPG game, which is also the best philosophical book, meaning it has to be beautiful, engaging and educational. And this kind of education is not based on discipline, meaning people are not made to conform.
 
