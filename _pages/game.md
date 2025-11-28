@@ -22,7 +22,7 @@ Our - c本y crew - office is also our home, with around 100+ plants. Thanks to s
 
 F, a friend since childhood, worked as an architect; her last project was a museum in Da Nang. Now she is drawing architectural designs for the game.  
 
-T, a friend and colleague of F, decided to join the crew in November 2025. He's also an architect, and is learning programming in Python and GDScript.
+T, a friend and colleague of F, decided to join the crew in November 2025. He's also worked as an architect, and is learning programming in Python and GDScript.
 
 Dawn has taught herself Python, GDScript, Godot and shaders with help from a few AIs. Now, she's building a remunated project to practice before she can jump in with the Wise Whispers of the Trees.  
 
