@@ -24,7 +24,7 @@ F, a friend since childhood, worked as an architect; her last project was a muse
 
 T, a friend and colleague of F, decided to join the crew in November 2025. He's also worked as an architect, and is learning programming in Python and GDScript.
 
-Dawn has taught herself Python, GDScript, Godot and shaders with help from a few AIs. Now, she's building a remunated project to practice before she can jump in with the Wise Whispers of the Trees.  
+Dawn has taught herself Python, GDScript, Godot and shaders with help from a few AIs. Now, she's building a remunerated project to practice before she can jump in with the Wise Whispers of the Trees.  
 
 Jane is drawing beautiful trees with Krita and Aseprite, and designing other assets.  
 
