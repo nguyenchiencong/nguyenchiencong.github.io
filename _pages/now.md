@@ -18,7 +18,7 @@ Things are moving at an incredible pace.
 
 I’ve recently implemented a quasi-autonomous process for programming with Godot.
 I’ve made it available here if you’re interested:  
-- [godot-mcp](https://github.com/nguyenchiencong/godot-mcp)
+- [godot-mcp](https://github.com/nguyenchiencong/godot-mcp-cli)
 - [godot-lsp-bridge](https://github.com/nguyenchiencong/godot-lsp-bridge)
 - [local-docs-mcp](https://github.com/nguyenchiencong/local-docs-mcp)
 
