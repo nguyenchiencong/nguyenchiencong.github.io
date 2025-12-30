@@ -4,11 +4,9 @@ title: Now
 permalink: /now
 ---
 
-6 december 2025,
+30 december 2025,
 
 ### Making a video game
-
-Mr. T joined the crew recently.  
 
 Details on the game [here](/game).  
 
@@ -21,8 +19,6 @@ I’ve made it available here if you’re interested:
 - [godot-mcp-cli](https://github.com/nguyenchiencong/godot-mcp-cli)
 - [godot-lsp-bridge](https://github.com/nguyenchiencong/godot-lsp-bridge)
 - [local-docs-mcp](https://github.com/nguyenchiencong/local-docs-mcp)
-
-Health is fine again.  
 
 I will update if there's something relevant to share.
 
