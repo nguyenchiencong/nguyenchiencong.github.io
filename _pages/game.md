@@ -6,7 +6,9 @@ permalink: /game
 
 I think a game is a great way to write a book nowadays. For traditional books with words, I find that many people do not read past a few sentences because they are stuck filtering each sentence with their guards always up. Even if the answer might come a few sentences or paragraphs further, they will stop before reaching that part and judge right away due to their short attention spans. There's no flow, making it difficult to guide someone's thoughts with a book. People just want immediacy and a sense of decision-making to strengthen their feelings.
 
-So a game is a much more engaging way to touch base with one's own consciousness. Fortunately, our time allows us to do so. I can't speak for the future, but in past centuries, people couldn't make books as video games. I can't say if this will radically change things. Let's see.
+So a game is a much more engaging way to touch base with one's own consciousness. Video games might just be the best medium to carry out philosophical thoughts because rather than just reading a book, in a video game you get to live the thought experiments in an immersive environment as an engaged actor.
+
+Fortunately, our time allows us to do so. I can't speak for the future, but in past centuries, people couldn't make books as video games. I can't say if this will radically change things. Let's see.
 
 ### Making a game: Wise whispers of the trees
 
