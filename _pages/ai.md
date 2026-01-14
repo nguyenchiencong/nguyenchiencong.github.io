@@ -19,6 +19,6 @@ So, if one sees intelligence as something from the heart, not just as an ability
 
 ### Playing with AI
 
-Since 2024, I've played with local LLMs (large language models). I use Ollama to get things running and Open WebUI as the interface. It's a fascinating time to be experimenting with those things. It's quite cool to be able to run a large language model on your own machine.  
+Since 2024, I've played with local LLMs (large language models). It's a fascinating time to be experimenting with those things. It's quite cool to be able to run a large language model on your own machine.  
 
-I'm using Antigravity as my main code editor. I use continue.dev in Vscode with local LLMs for assistance in writing for the game only. I use Opencode (Claude Opus 4.5, Gemini 3, Chatgpt-5.2) as my main driver for semi-autonomous assisted coding. Handling AI models and coding agents feels like collecting and handling pokemons.
+I use Opencode (Claude Opus 4.5, Gemini 3, Chatgpt-5.2) as my main driver for semi-autonomous assisted coding. Handling AI models and coding agents feels like collecting and handling pokemons.
