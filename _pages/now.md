@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-30 december 2025,
+6 march 2026,
 
 ### Making a video game
 
@@ -13,12 +13,8 @@ Details on the game [here](/game).
 Everything is on its course.  
 
 Things are moving at an incredible pace.  
-
-I’ve recently implemented a quasi-autonomous process for programming with Godot.
-I’ve made it available here if you’re interested:  
-- [godot-mcp-cli](https://github.com/nguyenchiencong/godot-mcp-cli)
-- [godot-lsp-bridge](https://github.com/nguyenchiencong/godot-lsp-bridge)
-- [local-docs-mcp](https://github.com/nguyenchiencong/local-docs-mcp)
+The story is almost finished. Assets are being drawn. Code is being written...  
+We aim to have an alpha release july 2027.
 
 I will update if there's something relevant to share.
 
