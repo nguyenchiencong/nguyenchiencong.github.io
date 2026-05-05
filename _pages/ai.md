@@ -19,4 +19,4 @@ So, if one sees intelligence as something from the heart, not just as an ability
 
 ### Playing with AI
 
-I use a bunch of different coding agents (using models like Claude Opus, Gemini, Chatgpt, Kimi, Glm, Minimax) for semi-autonomous assisted coding. Handling AI models and coding agents feels like collecting and handling pokemons.
+I use a bunch of different coding agents, but mostly Opencode (using agents with models like Deepseek, Chatgpt, Kimi, Glm, Minimax, Gemini) for quasi-autonomous assisted agentic coding. The recent Deepseek V4 model is truly impressive for its price and size. Handling AI models and coding agents feels like collecting and handling pokemons.
