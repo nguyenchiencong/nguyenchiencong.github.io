@@ -36,7 +36,7 @@ Things that I like:
 
 Things that I use:
 
-[Artificial Intelligence](/ai)
+[Setup](/setup)
 
 <br>
 <br>
