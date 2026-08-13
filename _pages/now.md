@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-5 may 2026,
+13 august 2026,
 
 ### Making a video game
 
@@ -12,9 +12,7 @@ Details on the game [here](/game).
 
 Everything is on its course.  
 
-Things are moving at an incredible pace.  
-The story is almost finished. Assets are being drawn. Code is being written...    
-I'm working on an asset manager app at the moment. More news coming soon.
+I'm working on an asset manager app at the moment. Will be launching it next month.
 
 I will update if there's something relevant to share.
 
